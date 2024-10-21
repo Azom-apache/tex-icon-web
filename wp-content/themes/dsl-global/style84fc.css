@@ -1,0 +1,32 @@
+/*
+Theme Name: DSL
+Theme URI: https://www.dongyi.hk
+Author: Dongyi Sourcing Limited
+Author URI: https://www.dongyi.hk
+Description: Dongyi Sourcing Limited is a Multinational apparel buying hub and exporter with a vision to deliver world-class service, quality solutions and value addition services to end products for the textile industries on a global level, beginning from fabrics to fashion through market knowledge, experienced sourcing professionals. 
+Version: 1.0.1
+Requires at least: 5.0
+Tested up to: 5.8
+Requires PHP: 5.2
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: urban
+Tags: one-column, two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-logo, custom-menu, featured-images, footer-widgets, full-width-template, theme-options, translation-ready
+
+Resource Licenses:
+Font Awesome: https://fontawesome.com/v4.7/license/ (Font: SIL OFL 1.1, (S)CSS: MIT)
+Bootstrap: https://getbootstrap.com | https://github.com/twbs/bootstrap/blob/master/LICENSE (MIT)
+WP Bootstrap Navwalker by Edward McIntyre & William Patton: https://github.com/twittem/wp-bootstrap-navwalker (GNU GPLv3)
+*/
+
+.contact-page-class img {
+    width: 100%;
+}
+@media (min-width: 768px) and (max-width: 991.98px){
+	h1.common-title-right::before{
+		width:0px!important;
+	}
+	section.slick_syn_carosule_part {
+		margin-top: 110px!important;
+	}
+}
