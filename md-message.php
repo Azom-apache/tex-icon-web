@@ -60,7 +60,7 @@
                                                                 <p class="position_name aos-init" data-aos="fade-up"
                                                                     aos-duration="700"> Managing Director</p>
                                                                 <p data-aos="fade-up" aos-duration="700"
-                                                                    class="aos-init">Dongyi Sourcing Limited.</p>
+                                                                    class="aos-init">Tex Icon Ltd.</p>
                                                             </div>
 
                                                         </div>
