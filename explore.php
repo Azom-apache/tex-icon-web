@@ -11,13 +11,34 @@
             </p></section>
 <section>
 <p data-aos="fade-up" aos-duration="700" class="aos-init aos-animate">
-                            Dongyi Sourcing Limited is a Multinational apparel buying hub and exporter with a vision to deliver world-class service.                        </p>
+Tex Icon Ltd: A Global Apparel Sourcing Hub
+Tex Icon Ltd is a multinational apparel buying hub and exporter dedicated to delivering world-class service, quality solutions, and value-added services to the global textile industry. From fabrics to fashion, our experienced sourcing professionals leverage market knowledge to provide exceptional end products.
+</p>
 <p data-aos="fade-up" aos-duration="700" class="aos-init aos-animate">
-</p><p>Dongyi Sourcing Limited is a Multinational apparel buying hub and exporter with a vision to deliver world-class service, quality solutions and value addition services to end products for the textile industries on a global level, beginning from fabrics to fashion through market knowledge, experienced sourcing professionals. Global headquarter of Dongyi sourcing located at North Point, Hong Kong and Global corporate office located at Dhaka, Bangladesh. Our design, sales and sourcing offices in UK, China, Hong Kong &amp; INDIA. Dongyi Sourcing offers product sourcing, amazing design collection, best production execution with on-time shipment, best quality assurance, supply chain solutions towards building a stakeholding approach to business.</p>
-<p>We have been cooperated with famous international buyers such as&nbsp; NEXT (UK), Inditex (Spain), John Lewis (UK), LPP (Poland), Crew clothing (UK), ASOS (UK), Biedronka (Poland), MLSE (Canada), Tequila Tromba (Canada), Six Label (Canada), Jeaniologie – Wal-mart (Canada).</p>
-<p>We are associated with top rated factories (Woven, Jersey and Knitwear) in Bangladesh who are highly organized, qualified, for quality and on-time product, and of course compliance certified. We have few green certified factories as well.</p>
-<p>We have a dynamic, talented, and well-experienced team working with us and a great office structure, including fabric sourcing, garment technology &amp; compliance.</p>
-<p>We have a range of product strengths that we offer for Womenswear, Menswear, and Children wear:</p>
+</p><p>Global Presence and Expertise
+With a corporate office in Dhaka, Bangladesh, Tex Icon Ltd maintains a strong international presence. Our design, sales, and sourcing offices ensure seamless operations and cater to diverse customer needs.
+Comprehensive Services
+Tex Icon Ltd offers a comprehensive range of services, including:
+•	Product Sourcing: Efficiently sourcing the best products to meet your specific requirements.
+•	Design Collection: Providing innovative and stylish designs to keep you ahead of the trends.
+•	Production Execution: Ensuring timely and high-quality production of your garments.
+•	Quality Assurance: Implementing rigorous quality control measures to guarantee product excellence.
+•	Supply Chain Solutions: Optimizing your supply chain for efficient and cost-effective operations.
+Strategic Partnerships
+We have established strong relationships with renowned international buyers such as NEXT (UK), Inditex (Spain), John Lewis (UK), LPP (Poland), Crew Clothing (UK), ASOS (UK), Biedronka (Poland), MLSE (Canada), Tequila Tromba (Canada), Six Label (Canada), and Jeaniologie – Wal-mart (Canada).
+Partnering with Top-Tier Factories
+Tex Icon Ltd collaborates with highly organized, qualified, and compliance-certified factories in Bangladesh, specializing in woven, jersey, and knitwear garments. Many of these factories are green certified, reflecting our commitment to sustainability.
+Product Expertise
+Our product strengths include:
+•	Woven: Tops, bottoms, dresses, and tailoring
+•	Outerwear: Jackets and coats (excluding original down)
+•	Jersey: Tops, bottoms, and dresses
+•	Knitwear: Sweaters ranging from 3gg to 12gg
+Design and Product Development
+Design and product development form the cornerstone of our business. We offer high-quality fabrics and yarns at competitive prices, with no minimum order quantities (MOQ) and a wide range of colorways or prints without additional charges.
+A Dedicated Team
+Our dynamic, talented, and experienced team, combined with our well-structured office, including fabric sourcing, garment technology, and compliance, ensures efficient operations and exceptional customer service.
+Tex Icon Ltd is your trusted partner for sourcing, designing, and producing high-quality apparel that meets your global needs.</p>
 <ul>
 <li>Woven – tops, bottoms, dresses &amp; tailoring</li>
 <li>Outerwear – jackets and coats (except original down)</li>
