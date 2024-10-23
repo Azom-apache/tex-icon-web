@@ -1678,7 +1678,7 @@
                                                             </p>
 
                                                             <div class="message_button">
-                                                                <a href="https://dongyi.hk/md-message/"
+                                                                <a href="/md-message.php"
                                                                     class="common_button">Read More</a>
                                                             </div>
 
