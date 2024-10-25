@@ -1057,16 +1057,16 @@
                                                                         aria-current="page" href="/">Home</a>
                                                                 </li>
                                                                 <li class="nav-item">
-                                                                    <a class="nav-link" href="/about">About</a>
+                                                                    <a class="nav-link" href="/explore.php">About</a>
                                                                 </li>
                                                                 <li class="nav-item">
-                                                                    <a class="nav-link" href="/services">Services</a>
+                                                                    <a class="nav-link" href="/product.php">Services</a>
                                                                 </li>
                                                                 <li class="nav-item">
                                                                     <a class="nav-link"
-                                                                        href="/product-category-list/">Products</a>
+                                                                        href="/product.php">Products</a>
                                                                 </li>
-                                                                <li class="nav-item">
+                                                                <!-- <li class="nav-item">
                                                                     <a class="nav-link" href="/ethics">Ethics</a>
                                                                 </li>
                                                                 <li class="nav-item">
@@ -1078,9 +1078,9 @@
                                                                 </li>
                                                                 <li class="nav-item">
                                                                     <a class="nav-link" href="/join-us/">Join Us</a>
-                                                                </li>
+                                                                </li> -->
                                                                 <li class="nav-item">
-                                                                    <a class="nav-link" href="/contact/">Contact
+                                                                    <a class="nav-link" href="/contact.php">Contact
                                                                         Us</a>
                                                                 </li>
 
