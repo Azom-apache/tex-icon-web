@@ -1,3 +1,17 @@
+<style>
+  #tp-widget-wrapper{
+    display: none !important;
+  }
+  .dark first-reviewer{
+    display: none !important;
+  }
+  .first-reviewer{
+    display: none !important;
+  }
+  .tp-widget-empty-horizontal{
+    display: none !important;
+  }
+</style>
 <footer class="footer-main">
     <div class="footer-top-part">
       <div class="container-fluid">
@@ -42,33 +56,22 @@
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-6 col-xl-3 col-6">
                   <div class="footer-middle-part-body-column">
-                    <section class="footer-area footer-area-two"><div class="textwidget contact-details"><p class="subtitle"><strong>BANGLADESH OFFICE</strong><br>
-<span style="font-weight: 600">Corporate office</span> - House 61, Chobighaor , Sector #12, Dhaka 1230</p>
-<p>Email: info@texicon-bd.com<br>
-Phone:  +880 1711-477601</p><br>
-<p class="subtitle"><strong>HONG KONG OFFICE</strong><br>
-    House 61, Chobighaor , Sector #12, Dhaka 1230<br>
-Email: info@texicon-bd.com</p>
-</div></section>                  </div>
+                                    </div>
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-6 col-xl-3 col-6">
                   <div class="footer-middle-part-body-column">
-                    <section class="footer-area footer-area-three"><div class="textwidget contact-details"><p class="subtitle"><strong>UK OFFICE</strong><br>
-                        House 61, Chobighaor , Sector #12, Dhaka 1230<br>
-Email: info@texicon-bd.com; <br> Cell:  +880 1711-477601</p><br>
-<p class="subtitle"><strong>CHINA OFFICE</strong><br>
-    House 61, Chobighaor , Sector #12, Dhaka 1230<br>
-Email: info@texicon-bd.com/</p><br>
-</div></section>                  </div>
+                                    </div>
                 </div>
 
                 <div class="col-lg-3 col-md-3 col-sm-6 col-xl-3 col-6">
                   <div class="footer-middle-part-body-column">
-                    <section class="footer-area footer-area-four"><div class=" contact-details">
-<p class="subtitle"><strong>INDIA OFFICE</strong><br>
-    House 61, Chobighaor , Sector #12, Dhaka 1230<br>
-Cell:  +880 1711-477601</p><br>
-</div></section>                  </div>
+                  <section class="footer-area footer-area-two"><div class="textwidget contact-details"><p class="subtitle"><strong>BANGLADESH OFFICE</strong><br>
+<span style="font-weight: 600">Corporate office</span> - House 61, Chobighaor , Sector #12, Dhaka 1230</p>
+<p>Email: info@texicon-bd.com<br>
+Phone:  +880 1711-477601</p><br>
+
+</div></section> 
+                    </div>
                 </div>
               </div>
             </div>
