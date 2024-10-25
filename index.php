@@ -824,7 +824,7 @@
                                                                         <div
                                                                             class="product-right-slider-content-image">
                                                                             <a
-                                                                                href="https://dongyi.hk/product-category/kids-fashion/kids-jersey/">
+                                                                                href="/">
                                                                                 <img decoding="async"
                                                                                     src="https://dongyi.hk/wp-content/uploads/2023/05/Boys-Jersey.png"
                                                                                     alt="Category Image"
@@ -832,7 +832,7 @@
                                                                                     class="img-fluid"> </a>
                                                                             <div class="product-right-title">
                                                                                 <a
-                                                                                    href="https://dongyi.hk/product-category/kids-fashion/kids-jersey/">KID'S
+                                                                                    href="/">KID'S
                                                                                     JERSEY</a>
                                                                             </div>
                                                                         </div>
@@ -842,15 +842,15 @@
                                                                         <div
                                                                             class="product-right-slider-content-image">
                                                                             <a
-                                                                                href="https://dongyi.hk/product-category/kids-fashion/kids-knitwear/">
+                                                                                href="/">
                                                                                 <img decoding="async"
-                                                                                    src="https://dongyi.hk/wp-content/uploads/2023/05/BABY-KIDS-KNITWEAR.png"
+                                                                                    src="https://texicon-bd.com/Picture/sincerely-media-CFgRaouVyBM-unsplash.jpg"
                                                                                     alt="Category Image"
                                                                                     style="height: 240px"
                                                                                     class="img-fluid"> </a>
                                                                             <div class="product-right-title">
                                                                                 <a
-                                                                                    href="https://dongyi.hk/product-category/kids-fashion/kids-knitwear/">KID'S
+                                                                                    href="/">KID'S
                                                                                     KNITWEAR</a>
                                                                             </div>
                                                                         </div>
