@@ -318,7 +318,7 @@
                                                         <div class="bottom-about-us-image float-end"
                                                             data-aos="fade-up" aos-duration="700">
                                                             <img decoding="async"
-                                                                src="https://dongyi.hk/wp-content/uploads/2022/11/aboutus_6360c839809904.334448081667287097.jpg"
+                                                                src="https://texicon-bd.com/Picture/download.jpg"
                                                                 alt="about Us" class="img-fluid">
                                                         </div>
                                                     </div>
@@ -482,7 +482,7 @@
                                                         <div class="services_right_part_image" data-aos="fade-up"
                                                             aos-duration="700">
                                                             <img decoding="async"
-                                                                src="https://dongyi.hk/wp-content/uploads/2023/10/young-beautiful-hispanic-woman-tailor-drawing-notebook-clothing-factory-scaled.jpg"
+                                                                src="https://texicon-bd.com/Picture/slider-1.webp"
                                                                 alt="Service Image" class="img-fluid">
                                                         </div>
                                                     </div>
@@ -531,7 +531,7 @@
                                                                     <div class="col-lg-5 col-md-5 col-sm-9 col-9">
                                                                         <div class="services_tab_image">
                                                                             <img decoding="async"
-                                                                                src="https://dongyi.hk/wp-content/uploads/2022/11/service_6360b73e423248.960976741667282750.jpg"
+                                                                                src="https://texicon-bd.com/Picture/anne-nygard-TVLBWsGjW-4-unsplash.jpg"
                                                                                 alt="Company Attribute"
                                                                                 class="img-fluid">
                                                                         </div>
@@ -784,7 +784,7 @@
                                                                         <div class="product-left-slider-content-image"
                                                                             data-aos="fade-up" aos-duration="700">
                                                                             <a
-                                                                                href="https://dongyi.hk/product-category/kids-fashion/">
+                                                                                href="/">
                                                                                 <img decoding="async"
                                                                                     src="https://dongyi.hk/wp-content/uploads/2023/01/Kids.png"
                                                                                     alt="Category Image"
@@ -806,15 +806,15 @@
                                                                         <div
                                                                             class="product-right-slider-content-image">
                                                                             <a
-                                                                                href="https://dongyi.hk/product-category/kids-fashion/kids-bottom-denim/">
+                                                                                href="/">
                                                                                 <img decoding="async"
-                                                                                    src="https://dongyi.hk/wp-content/uploads/2023/05/KIDS-BOTTOM-DENIM.png"
+                                                                                    src="https://texicon-bd.com/Picture/junko-nakase-Q-72wa9-7Dg-unsplash.jpg"
                                                                                     alt="Category Image"
                                                                                     style="height: 240px"
                                                                                     class="img-fluid"> </a>
                                                                             <div class="product-right-title">
                                                                                 <a
-                                                                                    href="https://dongyi.hk/product-category/kids-fashion/kids-bottom-denim/">KID'S
+                                                                                    href="/">KID'S
                                                                                     BOTTOM &amp; DENIM</a>
                                                                             </div>
                                                                         </div>
@@ -962,7 +962,7 @@
                                                                         <div class="product-left-slider-content-image"
                                                                             data-aos="fade-up" aos-duration="700">
                                                                             <a
-                                                                                href="https://dongyi.hk/product-category/mens-fashion/">
+                                                                                href="/">
                                                                                 <img decoding="async"
                                                                                     src="https://dongyi.hk/wp-content/uploads/2022/11/category_6360fe0f842134.154846751667300879-1.png"
                                                                                     alt="Category Image"
@@ -1331,253 +1331,7 @@
                         data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
                         data-widget_type="agile-store-locator-addon.default">
                         <div class="elementor-widget-container">
-                            <div class="elementor-shortcode asl-free-addon">
-                                <style type="text/css">
-                                    .asl-p-cont .asl-print-btn,
-                                    .asl-cont .asl-print-btn {
-                                        display: none !important;
-                                    }
-
-                                    .asl-cont .onoffswitch .onoffswitch-label .onoffswitch-switch:before {
-                                        content: "OPEN" !important;
-                                    }
-
-                                    .asl-cont .onoffswitch .onoffswitch-label .onoffswitch-switch:after {
-                                        content: "ALL" !important;
-                                    }
-
-                                    @media (max-width: 767px) {
-                                        #asl-storelocator.asl-cont .asl-panel {
-                                            order: 0;
-                                        }
-                                    }
-
-                                    .asl-cont.sl-search-only .Filter_section+.sl-row {
-                                        display: none;
-                                    }
-
-                                    .asl-cont .sl-hide-branches,
-                                    .asl-cont .sl-hide-branches:hover {
-                                        color: #FFF !important;
-                                        text-decoration: none !important;
-                                        cursor: pointer;
-                                    }
-                                </style>
-                                <div id="asl-storelocator"
-                                    class="storelocator-main asl-cont asl-template-0 asl-layout-0 asl-bg-0  asl-text-1">
-                                    <div class="asl-wrapper">
-                                        <div class="sl-container">
-
-
-                                            <div class="sl-row Filter_section">
-                                                <div class="pol-lg-4 pol-md-5 pol-sm-12 search_filter">
-                                                    <label class="mb-2" for="auto-complete-search">Search
-                                                        Location</label>
-                                                    <div class="sl-search-group d-flex">
-                                                        <input type="text" value="" data-submit="disable"
-                                                            id="auto-complete-search" placeholder="Enter a Location "
-                                                            class="asl-search-address form-control isp_ignore">
-                                                        <button aria-label="Search Location" title="Search Location"
-                                                            type="button" class="span-geo"><i
-                                                                class="icon-search"></i></button>
-                                                    </div>
-                                                </div>
-                                                <div class="pol-lg-8 pol-md-7 pol-sm-12">
-                                                    <div class="sl-row">
-                                                        <div class="pol-sm-12 asl-advance-filters hide">
-                                                            <div class="sl-row">
-                                                                <div
-                                                                    class="pol-lg-4 pol-md-6 pol-sm-12 range_filter asl-ddl-filters hide">
-                                                                    <div class="rangeFilter asl-filter-cntrl">
-                                                                        <label for="asl-radius-slide"
-                                                                            class="asl-cntrl-lbl">Distance
-                                                                            Range</label>
-                                                                        <input id="asl-radius-slide" type="text"
-                                                                            class="span2" />
-                                                                        <span class="rad-unit">Radius: <span
-                                                                                id="asl-radius-input"></span> <span
-                                                                                id="asl-dist-unit">Km</span></span>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="pol-lg-2 pol-md-3 pol-sm-12 Status_filter">
-                                                                    <div class="asl-filter-cntrl">
-                                                                        <label class="asl-cntrl-lbl">Status</label>
-                                                                        <div class="onoffswitch">
-                                                                            <input type="checkbox" name="onoffswitch"
-                                                                                class="onoffswitch-checkbox"
-                                                                                id="asl-open-close" checked>
-                                                                            <label aria-label="Opened Stores"
-                                                                                title="Opened Stores"
-                                                                                class="onoffswitch-label"
-                                                                                for="asl-open-close">
-                                                                                <span class="onoffswitch-inner"></span>
-                                                                                <span
-                                                                                    class="onoffswitch-switch"></span>
-                                                                            </label>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="sl-row">
-                                                <div class="pol-12">
-                                                    <div class="sl-main-cont">
-                                                        <div class="sl-row no-gutters sl-main-row">
-                                                            <div id="asl-panel"
-                                                                class="asl-panel pol-md-5 pol-lg-4 asl_locator-panel">
-                                                                <div class="asl-overlay" id="map-loading">
-                                                                    <div class="white"></div>
-                                                                    <div class="sl-loading">
-                                                                        <i class="animate-sl-spin icon-spin3"></i>
-                                                                        Loading...
-                                                                    </div>
-                                                                </div>
-                                                                <!-- list -->
-                                                                <div class="asl-panel-inner">
-                                                                    <div class="top-title Num_of_store">
-                                                                        <span><span class="sl-head-title">Tex Icon
-                                                                                Offices</span>: <span
-                                                                                class="count-result">0</span></span>
-                                                                        <a class="asl-print-btn"><span>PRINT</span><span
-                                                                                class="asl-print"></span></a>
-                                                                    </div>
-                                                                    <div class="sl-main-cont-box">
-                                                                        <div id="asl-list" class="sl-list-wrapper">
-                                                                            <ul id="p-statelist" class="sl-list">
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-
-                                                                <div class="directions-cont hide">
-                                                                    <div class="agile-modal-header">
-                                                                        <button type="button" class="close"><span
-                                                                                aria-hidden="true">×</span></button>
-                                                                        <h4>Store Direction</h4>
-                                                                    </div>
-                                                                    <div class="rendered-directions"
-                                                                        id="asl-rendered-dir" style="direction: ltr;">
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="pol-md-7 pol-lg-8 asl-map">
-                                                                <div class="map-image">
-                                                                    <div id="asl-map-canv" class="asl-map-canv"></div>
-                                                                    <div id="agile-modal-direction"
-                                                                        class="agile-modal fade">
-                                                                        <div class="agile-modal-backdrop-in"></div>
-                                                                        <div class="agile-modal-dialog in">
-                                                                            <div class="agile-modal-content">
-                                                                                <div
-                                                                                    class="sl-form-group d-flex justify-content-between">
-                                                                                    <h4>GET DIRECTIONS</h4>
-                                                                                    <button type="button"
-                                                                                        class="close-directions sl-close"
-                                                                                        data-dismiss="agile-modal"
-                                                                                        aria-label="Close">&times;</button>
-                                                                                </div>
-                                                                                <div class="sl-form-group">
-                                                                                    <label for="frm-lbl">From:</label>
-                                                                                    <input type="text"
-                                                                                        class="form-control frm-place"
-                                                                                        id="frm-lbl"
-                                                                                        placeholder="Enter a Location ">
-                                                                                </div>
-                                                                                <div class="sl-form-group">
-                                                                                    <label for="to-lbl">To:</label>
-                                                                                    <input readonly="true"
-                                                                                        type="text"
-                                                                                        class="directions-to form-control"
-                                                                                        id="to-lbl"
-                                                                                        placeholder="Prepopulated Destination Address">
-                                                                                </div>
-                                                                                <div class="sl-form-group mb-0">
-                                                                                    <label for="rbtn-km"
-                                                                                        class="checkbox-inline">
-                                                                                        <input type="radio"
-                                                                                            name="dist-type"
-                                                                                            id="rbtn-km"
-                                                                                            value="0"> Km </label>
-                                                                                    <label for="rbtn-mile"
-                                                                                        class="checkbox-inline">
-                                                                                        <input type="radio"
-                                                                                            name="dist-type" checked
-                                                                                            id="rbtn-mile"
-                                                                                            value="1"> Miles
-                                                                                    </label>
-                                                                                </div>
-                                                                                <div class="sl-form-group mb-0">
-                                                                                    <button type="submit"
-                                                                                        class="btn btn-default btn-submit">GET
-                                                                                        DIRECTIONS</button>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-
-                                                                    <div id="asl-geolocation-agile-modal"
-                                                                        class="agile-modal fade">
-                                                                        <div class="agile-modal-backdrop-in"></div>
-                                                                        <div class="agile-modal-dialog in">
-                                                                            <div class="agile-modal-content">
-                                                                                <div
-                                                                                    class="sl-form-group d-flex justify-content-between">
-                                                                                    <h5>Use my location to find the
-                                                                                        closest Service Provider near me
-                                                                                    </h5>
-                                                                                    <button type="button"
-                                                                                        class="close-directions sl-close"
-                                                                                        data-dismiss="agile-modal"
-                                                                                        aria-label="Close"
-                                                                                        aria-hidden="true">&times;</button>
-                                                                                </div>
-                                                                                <div
-                                                                                    class="sl-form-group text-center mb-0">
-                                                                                    <button type="button"
-                                                                                        id="asl-btn-geolocation"
-                                                                                        class="btn btn-block btn-default">USE
-                                                                                        LOCATION</button>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-
-                                                                    <div id="asl-desc-agile-modal"
-                                                                        class="agile-modal fade">
-                                                                        <div class="agile-modal-backdrop-in"></div>
-                                                                        <div class="agile-modal-dialog in">
-                                                                            <div class="agile-modal-content">
-                                                                                <div class="sl-row">
-                                                                                    <div class="pol-md-12">
-                                                                                        <div
-                                                                                            class="sl-form-group d-flex justify-content-between">
-                                                                                            <h4 class="sl-title">
-                                                                                                Description</h4>
-                                                                                            <button type="button"
-                                                                                                class="close-directions sl-close"
-                                                                                                data-dismiss="agile-modal"
-                                                                                                aria-label="Close">&times;</button>
-                                                                                        </div>
-                                                                                        <p class="sl-desc"></p>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- This plugin is developed by "Agile Store Locator for WordPress" https://agilestorelocator.com -->
-                            </div>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14593.937485750477!2d90.383766!3d23.872437!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c32e15d7ec9d%3A0x7b4a57d7ad83ca8d!2sE-Tex%20Solution%20Ltd.!5e0!3m2!1sen!2sbd!4v1729874407415!5m2!1sen!2sbd" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                     </div>
                     <div class="elementor-element elementor-element-bb271e7 elementor-widget elementor-widget-home-page-clients"
@@ -1921,189 +1675,7 @@
                             </section>
                         </div>
                     </div>
-                    <div class="elementor-element elementor-element-3c89f3b elementor-widget elementor-widget-home-page-blogs"
-                        data-id="3c89f3b" data-element_type="widget" data-widget_type="home-page-blogs.default">
-                        <div class="elementor-widget-container">
-                            <section class="blog-part">
-                                <div class="container-fluid">
-                                    <div class="row">
-                                        <div class="col-lg-11 m-auto">
-
-                                            <div class="blog-part-body">
-                                                <div class="blog-main-title">
-                                                    <h1 class="common-title" data-aos="fade-up"
-                                                        aos-duration="700">NEWS & EVENTS</h1>
-                                                </div>
-
-                                                <div class="row">
-                                                    <div class="col-lg-7">
-                                                        <div class="blog-carosule-part" data-aos="fade-up"
-                                                            aos-duration="700">
-                                                            <div id="blog_carosuel_id" class="owl-carousel">
-                                                                <div class="item">
-                                                                    <div class="blog_carosuel_image">
-                                                                        <a
-                                                                            href="https://dongyi.hk/dsls-target-of-achieving-100-billion-in-exports-by-2030/">
-                                                                            <img decoding="async"
-                                                                                src="https://dongyi.hk/wp-content/uploads/2023/07/2a069f5a-8be4-4f6e-b4a1-52d4d2149102.jpeg"
-                                                                                alt="Blog post" class="img-fluid">
-                                                                        </a>
-                                                                        <div class="blog_carosuel_content">
-                                                                            <a href="https://dongyi.hk/category/feature/"
-                                                                                class="caterory_name">Feature </a>
-                                                                            <a href="https://dongyi.hk/category/news/"
-                                                                                class="caterory_name">News </a>
-
-                                                                            <a href="https://dongyi.hk/dsls-target-of-achieving-100-billion-in-exports-by-2030/"
-                                                                                class="blog_content_title">
-                                                                                <h1>Tex Icon's target of achieving $250
-                                                                                    million in RMG exports by 2030.</h1>
-                                                                            </a>
-                                                                            <!-- <a href="https://dongyi.hk/dsls-target-of-achieving-100-billion-in-exports-by-2030/" class="blog_content_date">2023-07-14</a> -->
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="item">
-                                                                    <div class="blog_carosuel_image">
-                                                                        <a
-                                                                            href="https://dongyi.hk/dsl-provided-financial-support-and-education-scholarship-to-the-family-of-former-employee-latifur-rahman-ripon/">
-                                                                            <img decoding="async"
-                                                                                src="https://dongyi.hk/wp-content/uploads/2023/07/DSC07320-scaled.jpg"
-                                                                                alt="Blog post" class="img-fluid">
-                                                                        </a>
-                                                                        <div class="blog_carosuel_content">
-                                                                            <a href="https://dongyi.hk/category/feature/"
-                                                                                class="caterory_name">Feature </a>
-                                                                            <a href="https://dongyi.hk/category/news/"
-                                                                                class="caterory_name">News </a>
-
-                                                                            <a href="https://dongyi.hk/dsl-provided-financial-support-and-education-scholarship-to-the-family-of-former-employee-latifur-rahman-ripon/"
-                                                                                class="blog_content_title">
-                                                                                <h1>Tex Icon provided financial support
-                                                                                    and education scholarship to the
-                                                                                    family of former employee Latifur
-                                                                                    Rahman Ripon</h1>
-                                                                            </a>
-                                                                            <!-- <a href="https://dongyi.hk/dsl-provided-financial-support-and-education-scholarship-to-the-family-of-former-employee-latifur-rahman-ripon/" class="blog_content_date">2023-07-12</a> -->
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="item">
-                                                                    <div class="blog_carosuel_image">
-                                                                        <a
-                                                                            href="https://dongyi.hk/best-buying-house-in-bangladesh/">
-                                                                            <img decoding="async"
-                                                                                src="https://dongyi.hk/wp-content/uploads/2022/11/service_main_image.jpg"
-                                                                                alt="Blog post" class="img-fluid">
-                                                                        </a>
-                                                                        <div class="blog_carosuel_content">
-                                                                            <a href="https://dongyi.hk/category/feature/"
-                                                                                class="caterory_name">Feature </a>
-                                                                            <a href="https://dongyi.hk/category/news/"
-                                                                                class="caterory_name">News </a>
-                                                                            <a href="https://dongyi.hk/category/random/"
-                                                                                class="caterory_name">Random </a>
-
-                                                                            <a href="https://dongyi.hk/best-buying-house-in-bangladesh/"
-                                                                                class="blog_content_title">
-                                                                                <h1>Best Buying House in Bangladesh -
-                                                                                    Tex Icon Blog</h1>
-                                                                            </a>
-                                                                            <!-- <a href="https://dongyi.hk/best-buying-house-in-bangladesh/" class="blog_content_date">2022-11-01</a> -->
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-
-                                                        </div>
-                                                    </div>
-
-                                                    <div class="col-lg-5 pl-0">
-                                                        <div class="blog-right-part">
-                                                            <div class="row">
-                                                                <div class="col-lg-12">
-                                                                    <div class="blog_carosuel_right_image"
-                                                                        data-aos="fade-up" aos-duration="700">
-                                                                        <a
-                                                                            href="https://dongyi.hk/csr-activity-performed-by-dongyi-sourcing-limited-dsl-blog/">
-                                                                            <img decoding="async"
-                                                                                src="https://dongyi.hk/wp-content/uploads/2023/01/323971766_464482535888921_5621700279941039584_n.jpg"
-                                                                                alt="Blog post" class="img-fluid">
-                                                                        </a>
-                                                                        <div class="blog_carosuel_content">
-                                                                            <a href="https://dongyi.hk/csr-activity-performed-by-dongyi-sourcing-limited-dsl-blog/"
-                                                                                class="caterory_name">News</a>
-                                                                            <a href="https://dongyi.hk/csr-activity-performed-by-dongyi-sourcing-limited-dsl-blog/"
-                                                                                class="blog_content_title">
-                                                                                <h5>Unprivileged individuals received
-                                                                                    winter clothing from PH Foundation,
-                                                                                    a sister concern of Tex Icon - Tex
-                                                                                    Icon Blog</h6>
-                                                                            </a>
-                                                                            <!-- <a href="https://dongyi.hk/csr-activity-performed-by-dongyi-sourcing-limited-dsl-blog/" class="blog_content_date">2023-01-04</a> -->
-                                                                        </div>
-
-                                                                    </div>
-                                                                </div>
-                                                                <div class="col-lg-6 pr-3">
-                                                                    <div class="blog_carosuel_right_image_small"
-                                                                        data-aos="fade-up" aos-duration="700">
-                                                                        <a
-                                                                            href="https://dongyi.hk/dongyi-sourcing-limited-dsl/">
-                                                                            <img decoding="async"
-                                                                                src="https://dongyi.hk/wp-content/uploads/2022/12/Dongyi-Sourcing-Limited-1.jpg"
-                                                                                alt="Blog post" class="img-fluid">
-                                                                        </a>
-                                                                        <div class="blog_carosuel_content">
-                                                                            <a href="https://dongyi.hk/dongyi-sourcing-limited-dsl/"
-                                                                                class="caterory_name">Random</a>
-                                                                            <a href="https://dongyi.hk/dongyi-sourcing-limited-dsl/"
-                                                                                class="blog_content_title">
-                                                                                <h6>Tex Icon (Tex Icon) Always Believes
-                                                                                    in Quality, Commitment, and Service
-                                                                                    - Tex Icon Blog</h6>
-                                                                            </a>
-                                                                            <!-- <a href="https://dongyi.hk/dongyi-sourcing-limited-dsl/" class="blog_content_date">2022-12-19</a> -->
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="col-lg-6 pr-3">
-                                                                    <div class="blog_carosuel_right_image_small"
-                                                                        data-aos="fade-up" aos-duration="700">
-                                                                        <a
-                                                                            href="https://dongyi.hk/bgmea-president-meeting-dsl-blog/">
-                                                                            <img decoding="async"
-                                                                                src="https://dongyi.hk/wp-content/uploads/2022/12/video_thumbnail_New_Logo__1657948982.jpg"
-                                                                                alt="Blog post" class="img-fluid">
-                                                                        </a>
-                                                                        <div class="blog_carosuel_content">
-                                                                            <a href="https://dongyi.hk/bgmea-president-meeting-dsl-blog/"
-                                                                                class="caterory_name">News</a>
-                                                                            <a href="https://dongyi.hk/bgmea-president-meeting-dsl-blog/"
-                                                                                class="blog_content_title">
-                                                                                <h6>BGMEA President urges brands to
-                                                                                    adopt strategies to drive overall
-                                                                                    growth - Tex Icon Blog</h6>
-                                                                            </a>
-                                                                            <!-- <a href="https://dongyi.hk/bgmea-president-meeting-dsl-blog/" class="blog_content_date">2022-12-14</a> -->
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </section>
-
-                        </div>
-                    </div>
+                 
                 </div>
             </div>
         </div>
