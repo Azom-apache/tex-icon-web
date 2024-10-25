@@ -93,7 +93,7 @@
                         class="elementor-section elementor-inner-section elementor-element elementor-element-09e27d0 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                         data-id="09e27d0" data-element_type="section">
                         <div class="elementor-container elementor-column-gap-default">
-                            <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-a0f941d"
+                            <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-a0f941d"style="padding: 50px;"
                                 data-id="a0f941d" data-element_type="column">
                                 <div class="elementor-widget-wrap elementor-element-populated">
                                     <div class="elementor-element elementor-element-a4fb9e8 elementor-headline--style-highlight elementor-widget elementor-widget-animated-headline"
