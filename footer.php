@@ -64,7 +64,7 @@ Email: info@texicon-bd.com/</p><br>
 
                 <div class="col-lg-3 col-md-3 col-sm-6 col-xl-3 col-6">
                   <div class="footer-middle-part-body-column">
-                    <section class="footer-area footer-area-four"><div class="textwidget contact-details">
+                    <section class="footer-area footer-area-four"><div class=" contact-details">
 <p class="subtitle"><strong>INDIA OFFICE</strong><br>
     House 61, Chobighaor , Sector #12, Dhaka 1230<br>
 Cell:  +880 1711-477601</p><br>

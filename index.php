@@ -219,7 +219,7 @@
                         data-widget_type="home-page-stats-counter.default">
                         <div class="elementor-widget-container">
                             <!-- Counter -->
-                            <section id="stats">
+                            <!-- <section id="stats">
                                 <div id="stats-cover" class="bg-parallux">
                                     <div class="content-box">
                                         <div class="container-fluid">
@@ -267,7 +267,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </section>
+                            </section> -->
 
                         </div>
                     </div>

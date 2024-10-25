@@ -7,8 +7,8 @@
             <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-278da25"
                 data-id="278da25" data-element_type="column">
                 <div class="elementor-widget-wrap elementor-element-populated">
-                    <div class="elementor-element elementor-element-d1de47c elementor-widget__width-inherit elementor-widget elementor-widget-dsl-md-message"
-                        data-id="d1de47c" data-element_type="widget" data-widget_type="dsl-md-message.default">
+                    <div class="elementor-element elementor-element-d1de47c elementor-widget__width-inherit elementor-widget elementor-widget-T I N-md-message"
+                        data-id="d1de47c" data-element_type="widget" data-widget_type="T I N-md-message.default">
                         <div class="elementor-widget-container">
 
                             <!-- message part -->
@@ -85,7 +85,7 @@
                                                     <p data-aos="fade-up" aos-duration="700" class="aos-init">First of
                                                         all, thank you so much and I am really grateful to you / your
                                                         company for your unified support. Over the last two years,
-                                                        Dongyi Sourcing Limited (DSL) has built a reputation for being
+                                                        Text Iconhas built a reputation for being
                                                         an ethical buying office /business partner for brands &amp;
                                                         manufacturers. I take great pride in the long-term relationships
                                                         we have, highlighting the strengths within our core values and
@@ -93,10 +93,10 @@
 
                                                     <p data-aos="fade-up" aos-duration="700" class="aos-init">Our
                                                         priority still remains our clients, business partners who are at
-                                                        the forefront of our achievements. DSL believes in quality,
+                                                        the forefront of our achievements. T I N believes in quality,
                                                         commitment &amp; service.
                                                         My request to our business partners to maintain your continuous
-                                                        support with ethical &amp; integrity. DSL will not compromise
+                                                        support with ethical &amp; integrity. T I N will not compromise
                                                         for anything on quality, commitment &amp; service.</p>
 
                                                     <p data-aos="fade-up" aos-duration="700" class="aos-init">Customer's
