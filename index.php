@@ -30,7 +30,7 @@
                                                     data-no-retina>
                                                 <rs-bgvideo
                                                     data-video="w:100%;h:100%;nse:false;l:false;ptimer:false;vfc:true;do:1;doca:rgba(12, 12, 12, 0.49);"
-                                                    data-mp4="/website-video.mp4"></rs-bgvideo>
+                                                    data-mp4="https://texicon-bd.com/website-video.mp4"></rs-bgvideo>
                                                 <rs-layer id="slider-2-slide-13-layer-0" data-type="text" data-rsp_ch="on"
                                                     data-xy="x:c;xo:-31px,-31px,-31px,-11px;yo:354px,354px,354px,136px;"
                                                     data-text="w:normal;s:75,75,75,28;l:97,97,97,37;ls:2px,2px,2px,0px;fw:800;"
@@ -111,7 +111,7 @@
                                                     data-no-retina>
                                                 <rs-bgvideo
                                                     data-video="w:100%;h:100%;nse:false;l:false;ptimer:false;vfc:true;do:1;doca:rgba(12, 12, 12, 0.53);"
-                                                    data-mp4="/website-video.mp4"></rs-bgvideo>
+                                                    data-mp4="https://texicon-bd.com/website-video.mp4"></rs-bgvideo>
                                                 <!--
        --><rs-layer id="slider-2-slide-14-layer-0" data-type="text" data-rsp_ch="on"
                                                     data-xy="x:c;xo:-31px,-31px,-31px,-11px;yo:354px,354px,354px,136px;"
