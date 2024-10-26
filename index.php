@@ -860,7 +860,7 @@
                                                                         <div
                                                                             class="product-right-slider-content-image">
                                                                             <a
-                                                                                href="https://dongyi.hk/product-category/kids-fashion/kids-nightwear/">
+                                                                                href="/">
                                                                                 <img decoding="async"
                                                                                     src="https://dongyi.hk/wp-content/uploads/2023/05/KIDS-NIGHTWEAR.png"
                                                                                     alt="Category Image"
@@ -868,7 +868,7 @@
                                                                                     class="img-fluid"> </a>
                                                                             <div class="product-right-title">
                                                                                 <a
-                                                                                    href="https://dongyi.hk/product-category/kids-fashion/kids-nightwear/">KID'S
+                                                                                    href="/">KID'S
                                                                                     NIGHTWEAR</a>
                                                                             </div>
                                                                         </div>
@@ -878,7 +878,7 @@
                                                                         <div
                                                                             class="product-right-slider-content-image">
                                                                             <a
-                                                                                href="https://dongyi.hk/product-category/kids-fashion/kids-outerwear/">
+                                                                                href="/">
                                                                                 <img decoding="async"
                                                                                     src="https://dongyi.hk/wp-content/uploads/2023/05/KIDS-OUTERWEAR.png"
                                                                                     alt="Category Image"
@@ -886,7 +886,7 @@
                                                                                     class="img-fluid"> </a>
                                                                             <div class="product-right-title">
                                                                                 <a
-                                                                                    href="https://dongyi.hk/product-category/kids-fashion/kids-outerwear/">KID'S
+                                                                                    href="/">KID'S
                                                                                     OUTERWEAR</a>
                                                                             </div>
                                                                         </div>
@@ -896,7 +896,7 @@
                                                                         <div
                                                                             class="product-right-slider-content-image">
                                                                             <a
-                                                                                href="https://dongyi.hk/product-category/kids-fashion/kids-shirt/">
+                                                                                href="/">
                                                                                 <img decoding="async"
                                                                                     src="https://dongyi.hk/wp-content/uploads/2023/05/BABY-KIDS-SHIRT.png"
                                                                                     alt="Category Image"
@@ -904,7 +904,7 @@
                                                                                     class="img-fluid"> </a>
                                                                             <div class="product-right-title">
                                                                                 <a
-                                                                                    href="https://dongyi.hk/product-category/kids-fashion/kids-shirt/">KID'S
+                                                                                    href="/">KID'S
                                                                                     SHIRT</a>
                                                                             </div>
                                                                         </div>
@@ -914,7 +914,7 @@
                                                                         <div
                                                                             class="product-right-slider-content-image">
                                                                             <a
-                                                                                href="https://dongyi.hk/product-category/kids-fashion/kids-swim-shorts/">
+                                                                                href="/">
                                                                                 <img decoding="async"
                                                                                     src="https://dongyi.hk/wp-content/uploads/2023/05/Boys-Swim-Shorts.png"
                                                                                     alt="Category Image"
@@ -922,7 +922,7 @@
                                                                                     class="img-fluid"> </a>
                                                                             <div class="product-right-title">
                                                                                 <a
-                                                                                    href="https://dongyi.hk/product-category/kids-fashion/kids-swim-shorts/">KID'S
+                                                                                    href="/">KID'S
                                                                                     SWIM SHORTS</a>
                                                                             </div>
                                                                         </div>
@@ -932,7 +932,7 @@
                                                                         <div
                                                                             class="product-right-slider-content-image">
                                                                             <a
-                                                                                href="https://dongyi.hk/product-category/kids-fashion/woven-dress/">
+                                                                                href="/">
                                                                                 <img decoding="async"
                                                                                     src="https://dongyi.hk/wp-content/uploads/2023/05/KIDS-WOVEN-DRESS.png"
                                                                                     alt="Category Image"
@@ -940,7 +940,7 @@
                                                                                     class="img-fluid"> </a>
                                                                             <div class="product-right-title">
                                                                                 <a
-                                                                                    href="https://dongyi.hk/product-category/kids-fashion/woven-dress/">WOVEN
+                                                                                    href="/">WOVEN
                                                                                     DRESS</a>
                                                                             </div>
                                                                         </div>
@@ -984,7 +984,7 @@
                                                                         <div
                                                                             class="product-right-slider-content-image">
                                                                             <a
-                                                                                href="https://dongyi.hk/product-category/mens-fashion/mens-jackets-shorts/">
+                                                                                href="/">
                                                                                 <img decoding="async"
                                                                                     src="https://dongyi.hk/wp-content/uploads/2023/05/MENS-JACKETS-SHORTS_1.png"
                                                                                     alt="Category Image"
@@ -992,7 +992,7 @@
                                                                                     class="img-fluid"> </a>
                                                                             <div class="product-right-title">
                                                                                 <a
-                                                                                    href="https://dongyi.hk/product-category/mens-fashion/mens-jackets-shorts/">MEN'S
+                                                                                    href="/">MEN'S
                                                                                     JACKETS &amp; SHORTS</a>
                                                                             </div>
                                                                         </div>
@@ -1002,7 +1002,7 @@
                                                                         <div
                                                                             class="product-right-slider-content-image">
                                                                             <a
-                                                                                href="https://dongyi.hk/product-category/mens-fashion/mens-shirt/">
+                                                                                href="/">
                                                                                 <img decoding="async"
                                                                                     src="https://dongyi.hk/wp-content/uploads/2023/05/MENS-SHIRT1.png"
                                                                                     alt="Category Image"
@@ -1010,7 +1010,7 @@
                                                                                     class="img-fluid"> </a>
                                                                             <div class="product-right-title">
                                                                                 <a
-                                                                                    href="https://dongyi.hk/product-category/mens-fashion/mens-shirt/">MEN'S
+                                                                                    href="/">MEN'S
                                                                                     SHIRT</a>
                                                                             </div>
                                                                         </div>
@@ -1020,7 +1020,7 @@
                                                                         <div
                                                                             class="product-right-slider-content-image">
                                                                             <a
-                                                                                href="https://dongyi.hk/product-category/mens-fashion/mens-sweater/">
+                                                                                href="/">
                                                                                 <img decoding="async"
                                                                                     src="https://dongyi.hk/wp-content/uploads/2023/05/MENS-SWEATER.png"
                                                                                     alt="Category Image"
@@ -1028,7 +1028,7 @@
                                                                                     class="img-fluid"> </a>
                                                                             <div class="product-right-title">
                                                                                 <a
-                                                                                    href="https://dongyi.hk/product-category/mens-fashion/mens-sweater/">MEN'S
+                                                                                    href="/">MEN'S
                                                                                     SWEATER</a>
                                                                             </div>
                                                                         </div>
@@ -1038,7 +1038,7 @@
                                                                         <div
                                                                             class="product-right-slider-content-image">
                                                                             <a
-                                                                                href="https://dongyi.hk/product-category/mens-fashion/mens-denim/">
+                                                                                href="/">
                                                                                 <img decoding="async"
                                                                                     src="https://dongyi.hk/wp-content/uploads/2022/11/5.png"
                                                                                     alt="Category Image"
@@ -1046,7 +1046,7 @@
                                                                                     class="img-fluid"> </a>
                                                                             <div class="product-right-title">
                                                                                 <a
-                                                                                    href="https://dongyi.hk/product-category/mens-fashion/mens-denim/">MEN’S
+                                                                                    href="/">MEN’S
                                                                                     DENIM</a>
                                                                             </div>
                                                                         </div>
@@ -1056,7 +1056,7 @@
                                                                         <div
                                                                             class="product-right-slider-content-image">
                                                                             <a
-                                                                                href="https://dongyi.hk/product-category/mens-fashion/mens-jersey/">
+                                                                                href="/">
                                                                                 <img decoding="async"
                                                                                     src="https://dongyi.hk/wp-content/uploads/2022/11/6.png"
                                                                                     alt="Category Image"
@@ -1064,7 +1064,7 @@
                                                                                     class="img-fluid"> </a>
                                                                             <div class="product-right-title">
                                                                                 <a
-                                                                                    href="https://dongyi.hk/product-category/mens-fashion/mens-jersey/">MEN’S
+                                                                                    href="/">MEN’S
                                                                                     JERSEY</a>
                                                                             </div>
                                                                         </div>
@@ -1074,7 +1074,7 @@
                                                                         <div
                                                                             class="product-right-slider-content-image">
                                                                             <a
-                                                                                href="https://dongyi.hk/product-category/mens-fashion/mens-knitwear/">
+                                                                                href="/">
                                                                                 <img decoding="async"
                                                                                     src="https://dongyi.hk/wp-content/uploads/2022/11/category_636484149bcd46.739953661667531796.png"
                                                                                     alt="Category Image"
@@ -1082,7 +1082,7 @@
                                                                                     class="img-fluid"> </a>
                                                                             <div class="product-right-title">
                                                                                 <a
-                                                                                    href="https://dongyi.hk/product-category/mens-fashion/mens-knitwear/">MEN’S
+                                                                                    href="/">MEN’S
                                                                                     KNITWEAR</a>
                                                                             </div>
                                                                         </div>
@@ -1092,7 +1092,7 @@
                                                                         <div
                                                                             class="product-right-slider-content-image">
                                                                             <a
-                                                                                href="https://dongyi.hk/product-category/mens-fashion/mens-outerwear/">
+                                                                                href="/">
                                                                                 <img decoding="async"
                                                                                     src="https://dongyi.hk/wp-content/uploads/2022/11/category_6363a274cbffe1.594346071667474036.png"
                                                                                     alt="Category Image"
@@ -1100,7 +1100,7 @@
                                                                                     class="img-fluid"> </a>
                                                                             <div class="product-right-title">
                                                                                 <a
-                                                                                    href="https://dongyi.hk/product-category/mens-fashion/mens-outerwear/">MEN’S
+                                                                                    href="/">MEN’S
                                                                                     OUTERWEAR</a>
                                                                             </div>
                                                                         </div>
@@ -1110,7 +1110,7 @@
                                                                         <div
                                                                             class="product-right-slider-content-image">
                                                                             <a
-                                                                                href="https://dongyi.hk/product-category/mens-fashion/mens-tailoring/">
+                                                                                href="/">
                                                                                 <img decoding="async"
                                                                                     src="https://dongyi.hk/wp-content/uploads/2023/05/MENS-TAILORING.png"
                                                                                     alt="Category Image"
@@ -1118,7 +1118,7 @@
                                                                                     class="img-fluid"> </a>
                                                                             <div class="product-right-title">
                                                                                 <a
-                                                                                    href="https://dongyi.hk/product-category/mens-fashion/mens-tailoring/">MENS
+                                                                                    href="/">MENS
                                                                                     TAILORING</a>
                                                                             </div>
                                                                         </div>
