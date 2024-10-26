@@ -82,32 +82,11 @@
                                         <div class="col-lg-11 m-auto">
                                             <div class="message-body-text">
                                                 <div class="message-main-body">
-                                                    <p data-aos="fade-up" aos-duration="700" class="aos-init">First of
-                                                        all, thank you so much and I am really grateful to you / your
-                                                        company for your unified support. Over the last two years,
-                                                        Text Iconhas built a reputation for being
-                                                        an ethical buying office /business partner for brands &amp;
-                                                        manufacturers. I take great pride in the long-term relationships
-                                                        we have, highlighting the strengths within our core values and
-                                                        culture of the business.</p>
+                                                    <p data-aos="fade-up" aos-duration="700" class="aos-init">At Tex Icon, we are committed to ethical and sustainable business practices. With a strong focus on quality, commitment, and service, we have built long-lasting relationships with our clients, becoming a trusted partner for brands and manufacturers worldwide.</p>
 
-                                                    <p data-aos="fade-up" aos-duration="700" class="aos-init">Our
-                                                        priority still remains our clients, business partners who are at
-                                                        the forefront of our achievements. T I N believes in quality,
-                                                        commitment &amp; service.
-                                                        My request to our business partners to maintain your continuous
-                                                        support with ethical &amp; integrity. T I N will not compromise
-                                                        for anything on quality, commitment &amp; service.</p>
+                                                    <p data-aos="fade-up" aos-duration="700" class="aos-init">We take pride in our core values and culture, which are centered around integrity and transparency. Our team of experienced professionals is dedicated to providing exceptional service and ensuring that our clients' needs are always met.</p>
 
-                                                    <p data-aos="fade-up" aos-duration="700" class="aos-init">Customer's
-                                                        &amp; Business partner's satisfaction is one of the central
-                                                        aspects of our organizational culture. Total Customer's &amp;
-                                                        Business partner's satisfaction is the only success formula that
-                                                        drives us to be in this competitive fashion clothing industry.
-                                                        I would like to sincerely thank our valued clients &amp;
-                                                        business partners for your continued support in ensuring that we
-                                                        remain our long-term relationship to have good business in
-                                                        future.</p>
+                                                    <p data-aos="fade-up" aos-duration="700" class="aos-init">We believe in fostering strong partnerships based on mutual respect and trust. By working closely with our clients, we can identify and address their specific requirements, delivering innovative solutions that drive growth and success.</p>
                                                     <br>
                                                     <p data-aos="fade-up" aos-duration="700" class="aos-init">Thank You
                                                     </p>

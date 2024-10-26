@@ -8,7 +8,7 @@
   .first-reviewer{
     display: none !important;
   }
-  .tp-widget-empty-horizontal{
+  #trustpilot-widget-trustbox-0-wrapper{
     display: none !important;
   }
 </style>
@@ -64,13 +64,17 @@
                 </div>
 
                 <div class="col-lg-3 col-md-3 col-sm-6 col-xl-3 col-6">
-                  <div class="footer-middle-part-body-column">
-                  <section class="footer-area footer-area-two"><div class="textwidget contact-details"><p class="subtitle"><strong>BANGLADESH OFFICE</strong><br>
-<span style="font-weight: 600">Corporate office</span> - House 61, Chobighaor , Sector #12, Dhaka 1230</p>
-<p>Email: info@texicon-bd.com<br>
-Phone:  +880 1711-477601</p><br>
+                  <div class="footer-middle-part-body-column" style="
+    padding-top: 96px;
+">
+                  <section class="footer-area footer-area-two">
+                    <div class="textwidget contact-details"><p class="subtitle"><strong>BANGLADESH OFFICE</strong><br>
+                    <span style="font-weight: 600">Corporate office</span> - House 61, Chobighaor , Sector #12, Dhaka 1230</p>
+                    <p>Email: info@texicon-bd.com<br>
+                    Phone:  +880 1711-477601</p><br>
 
-</div></section> 
+                    </div>
+                  </section> 
                     </div>
                 </div>
               </div>
