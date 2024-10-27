@@ -300,7 +300,7 @@
                                                         <div class="top-about-us-image"data-aos="fade-up"
                                                             aos-duration="700">
                                                             <img decoding="async"
-                                                                src="https://dongyi.hk/wp-content/uploads/2022/11/aboutus_636494f5613e43.486537401667536117.png"
+                                                                src="https://texicon-bd.com/Picture/junko-nakase-Q-72wa9-7Dg-unsplash.jpg"
                                                                 alt="about us" class="img-fluid">
                                                             <div class="top-about-us-image-content">
                                                                 <p class="about_top_p">Begin your</p>
@@ -826,7 +826,7 @@
                                                                             <a
                                                                                 href="/">
                                                                                 <img decoding="async"
-                                                                                    src="https://texicon-bd.com/Picture/mediamodifier-elbKS4DY21g-unsplash.jpg"
+                                                                                    src="https://texicon-bd.com/Picture/junko-nakase-Q-72wa9-7Dg-unsplash.jpg"
                                                                                     alt="Category Image"
                                                                                     style="height: 240px"
                                                                                     class="img-fluid"> </a>
