@@ -378,7 +378,7 @@
                                                                 class="owl-carousel">
                                                                 <div class="item">
                                                                     <img decoding="async"
-                                                                        src="https://dongyi.hk/wp-content/uploads/2022/11/studio_6360c30930f3f9.939243201667285769.jpg"
+                                                                        src="https://texicon-bd.com/Picture/cam-morin-knKm7u_7Ihw-unsplash.jpg"
                                                                         alt="Design studio" class="img-fluid">
                                                                 </div>
                                                             </div>
@@ -562,7 +562,7 @@
                                                                     <div class="col-lg-5 col-md-5 col-sm-9 col-9">
                                                                         <div class="services_tab_image">
                                                                             <img decoding="async"
-                                                                                src="https://dongyi.hk/wp-content/uploads/2022/11/service_6360beac226324.746112181667284652.png"
+                                                                                src="https://texicon-bd.com/Picture/cam-morin-knKm7u_7Ihw-unsplash.jpg"
                                                                                 alt="Company Attribute"
                                                                                 class="img-fluid">
                                                                         </div>
@@ -786,7 +786,7 @@
                                                                             <a
                                                                                 href="/">
                                                                                 <img decoding="async"
-                                                                                    src="https://dongyi.hk/wp-content/uploads/2023/01/Kids.png"
+                                                                                    src="https://texicon-bd.com/Picture/images.jpg"
                                                                                     alt="Category Image"
                                                                                     class="img-fluid"> </a>
                                                                             <h5 data-aos="fade-up" aos-duration="500"
@@ -826,7 +826,7 @@
                                                                             <a
                                                                                 href="/">
                                                                                 <img decoding="async"
-                                                                                    src="https://dongyi.hk/wp-content/uploads/2023/05/Boys-Jersey.png"
+                                                                                    src="https://texicon-bd.com/Picture/mediamodifier-elbKS4DY21g-unsplash.jpg"
                                                                                     alt="Category Image"
                                                                                     style="height: 240px"
                                                                                     class="img-fluid"> </a>
