@@ -916,7 +916,7 @@
                                                                             <a
                                                                                 href="/">
                                                                                 <img decoding="async"
-                                                                                    src="https://dongyi.hk/wp-content/uploads/2023/05/Boys-Swim-Shorts.png"
+                                                                                    src="https://texicon-bd.com/Picture/priscilla-du-preez-DqJMxq5ZDqA-unsplash.jpg"
                                                                                     alt="Category Image"
                                                                                     style="height: 240px"
                                                                                     class="img-fluid"> </a>
@@ -934,7 +934,7 @@
                                                                             <a
                                                                                 href="/">
                                                                                 <img decoding="async"
-                                                                                    src="https://dongyi.hk/wp-content/uploads/2023/05/KIDS-WOVEN-DRESS.png"
+                                                                                    src="https://texicon-bd.com/Picture/clark-street-mercantile-qnKhZJPKFD8-unsplash.jpg"
                                                                                     alt="Category Image"
                                                                                     style="height: 240px"
                                                                                     class="img-fluid"> </a>
