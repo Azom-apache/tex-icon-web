@@ -1458,7 +1458,7 @@
                                                                                     data-aos="fade-up"
                                                                                     aos-duration="900">
                                                                                     <img decoding="async"
-                                                                                        src="https://dongyi.hk/wp-content/uploads/2022/11/paritosh.png "
+                                                                                        src="https://texicon-bd.com/Picture/junko-nakase-Q-72wa9-7Dg-unsplash.jpg"
                                                                                         alt=""
                                                                                         class="img-fluid">
                                                                                     <div
