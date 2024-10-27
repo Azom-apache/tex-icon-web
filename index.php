@@ -741,7 +741,7 @@
                                                                         <div class="our-vision-content-image">
                                                                             <div class="image-body-vision">
                                                                                 <img decoding="async"
-                                                                                    src="https://dongyi.hk/wp-content/uploads/2022/11/ethics_6360bfc1ee5508.123496181667284929.png"
+                                                                                    src="https://texicon-bd.com/Picture/tobias-van-schneider-gCeCpP15V1o-unsplash.jpg"
                                                                                     alt="Ethics" class="img-fluid">
                                                                             </div>
                                                                         </div>
@@ -862,7 +862,7 @@
                                                                             <a
                                                                                 href="/">
                                                                                 <img decoding="async"
-                                                                                    src="https://dongyi.hk/wp-content/uploads/2023/05/KIDS-NIGHTWEAR.png"
+                                                                                    src="https://texicon-bd.com/Picture/waldemar-NPPNHZK1U0s-unsplash.jpg"
                                                                                     alt="Category Image"
                                                                                     style="height: 240px"
                                                                                     class="img-fluid"> </a>
@@ -880,7 +880,7 @@
                                                                             <a
                                                                                 href="/">
                                                                                 <img decoding="async"
-                                                                                    src="https://dongyi.hk/wp-content/uploads/2023/05/KIDS-OUTERWEAR.png"
+                                                                                    src="https://texicon-bd.com/Picture/sincerely-media-CFgRaouVyBM-unsplash.jpg"
                                                                                     alt="Category Image"
                                                                                     style="height: 240px"
                                                                                     class="img-fluid"> </a>
@@ -898,7 +898,7 @@
                                                                             <a
                                                                                 href="/">
                                                                                 <img decoding="async"
-                                                                                    src="https://dongyi.hk/wp-content/uploads/2023/05/BABY-KIDS-SHIRT.png"
+                                                                                    src="https://texicon-bd.com/Picture/sincerely-media-9ShY-Tq70Mc-unsplash.jpg"
                                                                                     alt="Category Image"
                                                                                     style="height: 240px"
                                                                                     class="img-fluid"> </a>
