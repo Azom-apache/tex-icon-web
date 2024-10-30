@@ -5,25 +5,46 @@
 <div data-elementor-type="wp-page" data-elementor-id="1655" class="elementor elementor-1655" style="
     margin-top: -25px;
 ">
-<section id="home" class="position-relative page-header startup-header parallax section-nav-smooth vh-100" 
-style="background-image: url(&quot;https://www.brandtexbdltd.com/images/banner9.jpg&quot;); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; background-position: center 0px;">
+<section id="sliderBody" class="position-relative page-header startup-header parallax section-nav-smooth vh-100" 
+style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; background-position: center 0;">
     <h2 class="d-none">hidden</h2>
     <div class="overlay overlay-dark opacity-5 z-index-0"></div>
     <div class="col-12 text-center center-block startup-slider position-relative">
         <div class="startup-img">
             <img src="https://texicon-bd.com/texicon.png" alt="startup" class="img-fluid">
         </div>
-        <h2 class="">
-			<span class="text2"><br class="br-on-mobile">Corporation Bangladesh</span>
+        <h2>
+            <span class="text2"><br class="br-on-mobile">Corporation Bangladesh</span>
         </h2>
-        <h3 class="">
-			<div class="text-rainbow-animation">One stop Apparel buying solution</div>         
+        <h3>
+            <div class="text-rainbow-animation">One stop Apparel buying solution</div>         
         </h3>
     </div>
-
-
 </section>
-                    <div class="elementor-element elementor-element-09e75f9 elementor-widget elementor-widget-home-page-stats-counter"
+
+<script>
+    // Array of image URLs for the slider
+    const images = [
+        "https://www.brandtexbdltd.com/images/banner9.jpg",
+        "https://texicon-bd.com/Picture/1520157097443.jpg",
+        "https://texicon-bd.com/Picture/artem-beliaikin-dwZjyFGWR2g-unsplash.jpg",
+    ];
+
+    let currentIndex = 0;
+    const sliderBody = document.getElementById('sliderBody');
+
+    function changeBackgroundImage() {
+        // Increment the index and reset if it exceeds the number of images
+        currentIndex = (currentIndex + 1) % images.length;
+        // Update the background image
+        sliderBody.style.backgroundImage = `url('${images[currentIndex]}')`;
+    }
+
+    // Change the background every 5 seconds (5000 milliseconds)
+    setInterval(changeBackgroundImage, 5000);
+</script>
+
+                      <div class="elementor-element elementor-element-09e75f9 elementor-widget elementor-widget-home-page-stats-counter"
                         data-id="09e75f9" data-element_type="widget"
                         data-widget_type="home-page-stats-counter.default">
                         <div class="elementor-widget-container">
