@@ -14,10 +14,10 @@ style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg')
             <img src="https://texicon-bd.com/texicon.png" alt="startup" class="img-fluid">
         </div>
         <h2>
-            <span class="text2"><br class="br-on-mobile">Corporation Bangladesh</span>
+            <span class="text2"><br class="br-on-mobile" style="color: red;">Corporation Bangladesh</span>
         </h2>
         <h3>
-            <div class="text-rainbow-animation">One stop Apparel buying solution</div>         
+            <div class="text-rainbow-animation" style="color: red;">One stop Apparel buying solution</div>         
         </h3>
     </div>
     <!-- Shadow layer for smooth transition -->
