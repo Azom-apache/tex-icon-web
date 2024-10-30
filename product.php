@@ -17,7 +17,7 @@
                                     <div class="row h-100">
                                         <div class="col-lg-11 m-auto h-100">
                                             <div class="product-page-title">
-                                                <h1 data-aos="fade-up" aos-duration="700" class="aos-init">CATEGORY LIST
+                                                <h1 data-aos="fade-up" aos-duration="700" class="aos-init">PRODUCTS LIST
                                                 </h1>
                                             </div>
                                         </div>

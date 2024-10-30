@@ -646,7 +646,7 @@ style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg')
                                                                             <a
                                                                                 href="/">
                                                                                 <img decoding="async"
-                                                                                    src="https://texicon-bd.com/Picture/images.jpg"
+                                                                                    src="https://texicon-bd.com/Picture/kid-1.png"
                                                                                     alt="Category Image"
                                                                                     class="img-fluid"> </a>
                                                                             <h5 data-aos="fade-up" aos-duration="500"
@@ -668,7 +668,7 @@ style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg')
                                                                             <a
                                                                                 href="/">
                                                                                 <img decoding="async"
-                                                                                    src="https://texicon-bd.com/Picture/junko-nakase-Q-72wa9-7Dg-unsplash.jpg"
+                                                                                    src="https://texicon-bd.com/Picture/kids-2.png"
                                                                                     alt="Category Image"
                                                                                     style="height: 240px"
                                                                                     class="img-fluid"> </a>
@@ -686,7 +686,7 @@ style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg')
                                                                             <a
                                                                                 href="/">
                                                                                 <img decoding="async"
-                                                                                    src="https://texicon-bd.com/Picture/junko-nakase-Q-72wa9-7Dg-unsplash.jpg"
+                                                                                    src="https://texicon-bd.com/Picture/kids-3.png"
                                                                                     alt="Category Image"
                                                                                     style="height: 240px"
                                                                                     class="img-fluid"> </a>
@@ -704,7 +704,7 @@ style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg')
                                                                             <a
                                                                                 href="/">
                                                                                 <img decoding="async"
-                                                                                    src="https://texicon-bd.com/Picture/sincerely-media-CFgRaouVyBM-unsplash.jpg"
+                                                                                    src="https://texicon-bd.com/Picture/kids-4.png"
                                                                                     alt="Category Image"
                                                                                     style="height: 240px"
                                                                                     class="img-fluid"> </a>
@@ -722,7 +722,7 @@ style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg')
                                                                             <a
                                                                                 href="/">
                                                                                 <img decoding="async"
-                                                                                    src="https://texicon-bd.com/Picture/waldemar-NPPNHZK1U0s-unsplash.jpg"
+                                                                                    src="https://texicon-bd.com/Picture/kids-5.png"
                                                                                     alt="Category Image"
                                                                                     style="height: 240px"
                                                                                     class="img-fluid"> </a>
@@ -740,7 +740,7 @@ style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg')
                                                                             <a
                                                                                 href="/">
                                                                                 <img decoding="async"
-                                                                                    src="https://texicon-bd.com/Picture/sincerely-media-CFgRaouVyBM-unsplash.jpg"
+                                                                                    src="https://texicon-bd.com/Picture/kids-6.png"
                                                                                     alt="Category Image"
                                                                                     style="height: 240px"
                                                                                     class="img-fluid"> </a>
@@ -758,7 +758,7 @@ style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg')
                                                                             <a
                                                                                 href="/">
                                                                                 <img decoding="async"
-                                                                                    src="https://texicon-bd.com/Picture/sincerely-media-9ShY-Tq70Mc-unsplash.jpg"
+                                                                                    src="https://texicon-bd.com/Picture/kids-7.png"
                                                                                     alt="Category Image"
                                                                                     style="height: 240px"
                                                                                     class="img-fluid"> </a>
@@ -776,7 +776,7 @@ style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg')
                                                                             <a
                                                                                 href="/">
                                                                                 <img decoding="async"
-                                                                                    src="https://texicon-bd.com/Picture/priscilla-du-preez-DqJMxq5ZDqA-unsplash.jpg"
+                                                                                    src="https://texicon-bd.com/Picture/kids-8.png"
                                                                                     alt="Category Image"
                                                                                     style="height: 240px"
                                                                                     class="img-fluid"> </a>
