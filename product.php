@@ -74,7 +74,7 @@
                                                                                         <a target="_blank"
                                                                                             href="/">
                                                                                             <img decoding="async"
-                                                                                                src="https://texicon-bd.com/Picture/kid-2.png"
+                                                                                                src="https://texicon-bd.com/Picture/kids-2.png"
                                                                                                 alt="KID'S JERSEY"
                                                                                                 class="img-fluid">
                                                                                         </a>
@@ -95,7 +95,7 @@
                                                                                         <a target="_blank"
                                                                                             href="/">
                                                                                             <img decoding="async"
-                                                                                                src="https://texicon-bd.com/Picture/kid-3.png"
+                                                                                                src="https://texicon-bd.com/Picture/kids-3.png"
                                                                                                 alt="KID'S KNITWEAR"
                                                                                                 class="img-fluid">
                                                                                         </a>
@@ -116,7 +116,7 @@
                                                                                         <a target="_blank"
                                                                                             href="/">
                                                                                             <img decoding="async"
-                                                                                                src="https://texicon-bd.com/Picture/kid-4.png"
+                                                                                                src="https://texicon-bd.com/Picture/kids-4.png"
                                                                                                 alt="KID'S NIGHTWEAR"
                                                                                                 class="img-fluid">
                                                                                         </a>
@@ -137,7 +137,7 @@
                                                                                         <a target="_blank"
                                                                                             href="/">
                                                                                             <img decoding="async"
-                                                                                                src="https://texicon-bd.com/Picture/kid-5.png"
+                                                                                                src="https://texicon-bd.com/Picture/kids-5.png"
                                                                                                 alt="KID'S OUTERWEAR"
                                                                                                 class="img-fluid">
                                                                                         </a>
@@ -158,7 +158,7 @@
                                                                                         <a target="_blank"
                                                                                             href="/">
                                                                                             <img decoding="async"
-                                                                                                src="https://texicon-bd.com/Picture/kid-6.png"
+                                                                                                src="https://texicon-bd.com/Picture/kids-6.png"
                                                                                                 alt="KID'S SHIRT"
                                                                                                 class="img-fluid">
                                                                                         </a>
@@ -179,7 +179,7 @@
                                                                                         <a target="_blank"
                                                                                             href="/">
                                                                                             <img decoding="async"
-                                                                                                src="https://texicon-bd.com/Picture/kid-7.png"
+                                                                                                src="https://texicon-bd.com/Picture/kids-7.png"
                                                                                                 alt="KID'S SWIM SHORTS"
                                                                                                 class="img-fluid">
                                                                                         </a>
@@ -200,7 +200,7 @@
                                                                                         <a target="_blank"
                                                                                             href="/">
                                                                                             <img decoding="async"
-                                                                                                src="https://texicon-bd.com/Picture/kid-8.png"
+                                                                                                src="https://texicon-bd.com/Picture/kids-8.png"
                                                                                                 alt="MEN'S JACKETS &amp; SHORTS"
                                                                                                 class="img-fluid">
                                                                                         </a>
