@@ -26,8 +26,8 @@ style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg')
     // Array of image URLs for the slider
     const images = [
         "https://www.brandtexbdltd.com/images/banner9.jpg",
-        "https://texicon-bd.com/Picture/1520157097443.jpg",
         "https://texicon-bd.com/Picture/artem-beliaikin-dwZjyFGWR2g-unsplash.jpg",
+        "https://texicon-bd.com/Picture/1520157097443.jpg",
     ];
 
     let currentIndex = 0;
