@@ -1,219 +1,28 @@
 <?php include 'header.php'; ?>
 
+<link href="https://cdn.lineicons.com/3.0/lineicons.css" rel="stylesheet">
 
-<div data-elementor-type="wp-page" data-elementor-id="1655" class="elementor elementor-1655">
-    <section
-        class="elementor-section elementor-top-section elementor-element elementor-element-64d6a70 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
-        data-id="64d6a70" data-element_type="section">
-        <div class="elementor-container elementor-column-gap-default">
-            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-de92896"
-                data-id="de92896" data-element_type="column">
-                <div class="elementor-widget-wrap elementor-element-populated">
-                    <div class="elementor-element elementor-element-47f922b elementor-widget elementor-widget-slider_revolution"
-                        data-id="47f922b" data-element_type="widget" data-widget_type="slider_revolution.default">
-                        <div class="elementor-widget-container">
+<div data-elementor-type="wp-page" data-elementor-id="1655" class="elementor elementor-1655" style="
+    margin-top: -25px;
+">
+<section id="home" class="position-relative page-header startup-header parallax section-nav-smooth vh-100" 
+style="background-image: url(&quot;https://www.brandtexbdltd.com/images/banner9.jpg&quot;); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; background-position: center 0px;">
+    <h2 class="d-none">hidden</h2>
+    <div class="overlay overlay-dark opacity-5 z-index-0"></div>
+    <div class="col-12 text-center center-block startup-slider position-relative">
+        <div class="startup-img">
+            <img src="https://texicon-bd.com/texicon.png" alt="startup" class="img-fluid">
+        </div>
+        <h2 class="">
+			<span class="text2"><br class="br-on-mobile">Corporation Bangladesh</span>
+        </h2>
+        <h3 class="">
+			<div class="text-rainbow-animation">One stop Apparel buying solution</div>         
+        </h3>
+    </div>
 
-                            <div class="wp-block-themepunch-revslider">
-                                <!-- START Slider 1 REVOLUTION SLIDER 6.6.16 -->
-                                <p class="rs-p-wp-fix"></p>
-                                <rs-module-wrap id="rev_slider_2_1_wrapper" data-source="gallery"
-                                    style="visibility:hidden;background:transparent;padding:0;">
-                                    <rs-module id="rev_slider_2_1" style="" data-version="6.6.16">
-                                        <rs-slides style="overflow: hidden; position: absolute;">
-                                            <rs-slide style="position: absolute;" data-key="rs-13" data-title="Slide"
-                                                data-in="o:0;" data-out="a:false;">
-                                                <img fetchpriority="high" decoding="async"
-                                                    src="//dongyi.hk/wp-content/plugins/revslider/public/assets/assets/dummy.png"
-                                                    alt="" title="website-video_13.jpeg" width="1920"
-                                                    height="1080" class="rev-slidebg tp-rs-img rs-lazyload"
-                                                    data-lazyload="//dongyi.hk/wp-content/uploads/revslider/video-media/website-video_13.jpeg"
-                                                    data-no-retina>
-                                                <rs-bgvideo
-                                                    data-video="w:100%;h:100%;nse:false;l:false;ptimer:false;vfc:true;do:1;doca:rgba(12, 12, 12, 0.49);"
-                                                    data-mp4="https://texicon-bd.com/website-video.mp4"></rs-bgvideo>
-                                                <rs-layer id="slider-2-slide-13-layer-0" data-type="text" data-rsp_ch="on"
-                                                    data-xy="x:c;xo:-31px,-31px,-31px,-11px;yo:354px,354px,354px,136px;"
-                                                    data-text="w:normal;s:75,75,75,28;l:97,97,97,37;ls:2px,2px,2px,0px;fw:800;"
-                                                    data-frame_0="rX:70deg;oZ:-50;"
-                                                    data-frame_0_chars="d:5;y:cyc(-100||100);o:0;"
-                                                    data-frame_1="oZ:-50;e:power4.inOut;sp:1050;"
-                                                    data-frame_1_chars="e:power4.inOut;dir:middletoedge;d:10;"
-                                                    data-frame_999="y:50,50,50,19;o:0;st:11660;sp:1000;sR:8510;"
-                                                    style="z-index:9;font-family:'Playfair Display';">Tex Icon
-                                                </rs-layer>
-                                                <rs-layer id="slider-2-slide-13-layer-1" data-type="text" data-rsp_ch="on"
-                                                    data-xy="x:c;xo:-3px,-3px,-3px,0;yo:476px,476px,476px,183px;"
-                                                    data-text="w:normal;s:43,43,43,16;l:59,59,59,22;fw:700;a:center;"
-                                                    data-frame_0="rX:-70deg;oZ:-50;"
-                                                    data-frame_1="oZ:-50;e:power4.inOut;st:940;sp:1960;sR:940;"
-                                                    data-frame_999="o:0;st:4510;sp:2030;sR:1610;"
-                                                    style="z-index:8;font-family:'Playfair Display';">Design | Sourcing
-                                                    | Manufacturing
-                                                </rs-layer>
-                                                <rs-layer id="slider-2-slide-13-layer-2" data-type="text" data-rsp_ch="on"
-                                                    data-xy="x:c;yo:405px,405px,405px,156px;"
-                                                    data-text="w:normal;s:40,40,40,15;l:50,50,50,19;fw:700;"
-                                                    data-frame_0="y:-50,-50,-50,-19;"
-                                                    data-frame_1="y:-2px,-2px,-2px,0px;st:11920;sp:1000;sR:11920;"
-                                                    data-frame_999="y:0px;o:0;rX:70deg;oZ:-50;e:power4.inOut;st:14290;sp:160;sR:1370;"
-                                                    data-frame_999_chars="e:power4.inOut;dir:middletoedge;d:10;y:cyc(-100||100);o:0;"
-                                                    style="z-index:11;font-family:'Playfair Display';">Believe In
-                                                </rs-layer><!--
 
-       --><rs-layer id="slider-2-slide-13-layer-3" data-type="text" data-rsp_ch="on"
-                                                    data-xy="x:c;xo:-22px,-22px,-22px,-8px;yo:485px,485px,485px,186px;"
-                                                    data-text="w:normal;s:43,43,43,16;l:56,56,56,20;fw:700;"
-                                                    data-frame_0="sX:0.9;sY:0.9;"
-                                                    data-frame_1="e:power2.inOut;st:8820;sp:1000;sR:8820;"
-                                                    data-frame_999="sX:0.9;sY:0.9;o:0;e:power2.inOut;st:11240;sp:1000;sR:1420;"
-                                                    style="z-index:7;font-family:'Playfair Display';">"Innovative
-                                                    Sourcing, Unparalleled Quality, Endless Possibilities"
-                                                </rs-layer><!--
-
-       --><rs-layer id="slider-2-slide-13-layer-5" data-type="text" data-rsp_ch="on"
-                                                    data-xy="x:c;yo:480px,480px,480px,185px;"
-                                                    data-text="w:normal;s:60,60,60,22;l:73,73,73,27;fw:700;"
-                                                    data-frame_0="sX:0.8;sY:0.8;"
-                                                    data-frame_1="e:power4.out;st:13000;sp:1000;sR:13000;"
-                                                    data-frame_999="y:100%;sX:0.7;sY:0.7;o:0;e:power2.in;st:14200;sp:1000;sR:200;"
-                                                    data-frame_999_mask="u:t;"
-                                                    style="z-index:10;font-family:'Playfair Display';">Quality |
-                                                    Commitment | Service
-                                                </rs-layer><!--
-
-       --><rs-layer id="slider-2-slide-13-layer-6" data-type="text" data-rsp_ch="on"
-                                                    data-xy="x:c;yo:487px,487px,487px,188px;"
-                                                    data-text="w:normal;s:43,43,43,16;l:57,57,57,21;fw:700;"
-                                                    data-frame_0="sX:0.9;sY:0.9;"
-                                                    data-frame_1="e:power2.inOut;st:5680;sp:1000;sR:5680;"
-                                                    data-frame_999="y:-50,-50,-50,-19;o:0;st:8230;sp:1000;sR:1550;"
-                                                    style="z-index:6;font-family:'Playfair Display';">"Your Global
-                                                    Partner in Textile Excellence"
-                                                </rs-layer><!--
-
-       --><rs-layer id="slider-2-slide-13-layer-7" data-type="text" data-rsp_ch="on"
-                                                    data-xy="x:c;xo:-10px,-10px,-10px,-3px;y:b;yo:83px,83px,83px,31px;"
-                                                    data-text="w:normal;s:50,50,50,19;l:50,50,50,19;"
-                                                    data-dim="h:63px,63px,63px,24px;" data-frame_0="sX:0.8;sY:0.8;"
-                                                    data-frame_1="x:-12px,-12px,-12px,-3px;y:53px,53px,53px,19px;e:power4.out;st:2890;sp:1000;sR:2890;"
-                                                    data-frame_999="o:0;st:w;sR:10810;"
-                                                    style="z-index:12;font-family:'Roboto';"><i
-                                                        class="pe-7s-angle-down-circle"></i>
-                                                </rs-layer><!--
---> </rs-slide>
-                                            <rs-slide style="position: absolute;" data-key="rs-14" data-title="Slide"
-                                                data-in="o:0;" data-out="a:false;">
-                                                <img decoding="async"
-                                                    src="http:/dongyi.hk/wp-content/plugins/revslider/public/assets/assets/dummy.png"
-                                                    alt="" title="website-2_141.jpeg" width="1920"
-                                                    height="1080" class="rev-slidebg tp-rs-img rs-lazyload"
-                                                    data-lazyload="//dongyi.hk/wp-content/uploads/revslider/video-media/website-2_141.jpeg"
-                                                    data-no-retina>
-                                                <rs-bgvideo
-                                                    data-video="w:100%;h:100%;nse:false;l:false;ptimer:false;vfc:true;do:1;doca:rgba(12, 12, 12, 0.53);"
-                                                    data-mp4="https://texicon-bd.com/website-video.mp4"></rs-bgvideo>
-                                                <!--
-       --><rs-layer id="slider-2-slide-14-layer-0" data-type="text" data-rsp_ch="on"
-                                                    data-xy="x:c;xo:-31px,-31px,-31px,-11px;yo:354px,354px,354px,136px;"
-                                                    data-text="w:normal;s:75,75,75,28;l:97,97,97,37;ls:2px,2px,2px,0px;fw:800;"
-                                                    data-frame_0="rX:70deg;oZ:-50;"
-                                                    data-frame_0_chars="d:5;y:cyc(-100||100);o:0;"
-                                                    data-frame_1="oZ:-50;e:power4.inOut;sp:1050;"
-                                                    data-frame_1_chars="e:power4.inOut;dir:middletoedge;d:10;"
-                                                    data-frame_999="y:50,50,50,19;o:0;st:11660;sp:1000;sR:8510;"
-                                                    style="z-index:9;font-family:'Playfair Display';">Tex Icon
-                                                </rs-layer><!--
-
-       --><rs-layer id="slider-2-slide-14-layer-1" data-type="text" data-rsp_ch="on"
-                                                    data-xy="x:c;xo:-3px,-3px,-3px,0;yo:476px,476px,476px,183px;"
-                                                    data-text="w:normal;s:43,43,43,16;l:59,59,59,22;fw:700;a:center;"
-                                                    data-frame_0="rX:-70deg;oZ:-50;"
-                                                    data-frame_1="oZ:-50;e:power4.inOut;st:940;sp:1960;sR:940;"
-                                                    data-frame_999="o:0;st:4510;sp:2030;sR:1610;"
-                                                    style="z-index:8;font-family:'Playfair Display';">Design | Sourcing
-                                                    | Manufacturing
-                                                </rs-layer><!--
-
-       --><rs-layer id="slider-2-slide-14-layer-2" data-type="text" data-rsp_ch="on"
-                                                    data-xy="x:c;yo:405px,405px,405px,156px;"
-                                                    data-text="w:normal;s:40,40,40,15;l:50,50,50,19;fw:700;"
-                                                    data-frame_0="y:-50,-50,-50,-19;"
-                                                    data-frame_1="y:-2px,-2px,-2px,0px;st:11920;sp:1000;sR:11920;"
-                                                    data-frame_999="y:0px;o:0;rX:70deg;oZ:-50;e:power4.inOut;st:14290;sp:160;sR:1370;"
-                                                    data-frame_999_chars="e:power4.inOut;dir:middletoedge;d:10;y:cyc(-100||100);o:0;"
-                                                    style="z-index:11;font-family:'Playfair Display';">Believe In
-                                                </rs-layer><!--
-
-       --><rs-layer id="slider-2-slide-14-layer-3" data-type="text" data-rsp_ch="on"
-                                                    data-xy="x:c;xo:-22px,-22px,-22px,-8px;yo:485px,485px,485px,186px;"
-                                                    data-text="w:normal;s:43,43,43,16;l:56,56,56,20;fw:700;"
-                                                    data-frame_0="sX:0.9;sY:0.9;"
-                                                    data-frame_1="e:power2.inOut;st:8820;sp:1000;sR:8820;"
-                                                    data-frame_999="sX:0.9;sY:0.9;o:0;e:power2.inOut;st:11240;sp:1000;sR:1420;"
-                                                    style="z-index:7;font-family:'Playfair Display';">"Innovative
-                                                    Sourcing, Unparalleled Quality, Endless Possibilities"
-                                                </rs-layer><!--
-
-       --><rs-layer id="slider-2-slide-14-layer-5" data-type="text" data-rsp_ch="on"
-                                                    data-xy="x:c;yo:480px,480px,480px,185px;"
-                                                    data-text="w:normal;s:60,60,60,22;l:73,73,73,27;fw:700;"
-                                                    data-frame_0="sX:0.8;sY:0.8;"
-                                                    data-frame_1="e:power4.out;st:13000;sp:1000;sR:13000;"
-                                                    data-frame_999="y:100%;sX:0.7;sY:0.7;o:0;e:power2.in;st:14200;sp:1000;sR:200;"
-                                                    data-frame_999_mask="u:t;"
-                                                    style="z-index:10;font-family:'Playfair Display';">Quality |
-                                                    Commitment | Service
-                                                </rs-layer><!--
-
-       --><rs-layer id="slider-2-slide-14-layer-6" data-type="text" data-rsp_ch="on"
-                                                    data-xy="x:c;yo:487px,487px,487px,188px;"
-                                                    data-text="w:normal;s:43,43,43,16;l:57,57,57,21;fw:700;"
-                                                    data-frame_0="sX:0.9;sY:0.9;"
-                                                    data-frame_1="e:power2.inOut;st:5680;sp:1000;sR:5680;"
-                                                    data-frame_999="y:-50,-50,-50,-19;o:0;st:8230;sp:1000;sR:1550;"
-                                                    style="z-index:6;font-family:'Playfair Display';">"Your Global
-                                                    Partner in Textile Excellence"
-                                                </rs-layer><!--
-
-       --><rs-layer id="slider-2-slide-14-layer-7" data-type="text" data-rsp_ch="on"
-                                                    data-xy="x:c;xo:-10px,-10px,-10px,-3px;y:b;yo:83px,83px,83px,31px;"
-                                                    data-text="w:normal;s:50,50,50,19;l:50,50,50,19;"
-                                                    data-dim="h:63px,63px,63px,24px;" data-frame_0="sX:0.8;sY:0.8;"
-                                                    data-frame_1="x:-12px,-12px,-12px,-3px;y:53px,53px,53px,19px;e:power4.out;st:2890;sp:1000;sR:2890;"
-                                                    data-frame_999="o:0;st:w;sR:10810;"
-                                                    style="z-index:12;font-family:'Roboto';"><i
-                                                        class="pe-7s-angle-down-circle"></i>
-                                                </rs-layer><!--
---> </rs-slide>
-                                        </rs-slides>
-                                    </rs-module>
-                                    <script>
-                                        setREVStartSize({
-                                            c: 'rev_slider_2_1',
-                                            rl: [1240, 1240, 1240, 480],
-                                            el: [900, 900, 900, 320],
-                                            gw: [1240, 1240, 1240, 480],
-                                            gh: [900, 900, 900, 320],
-                                            type: 'standard',
-                                            justify: '',
-                                            layout: 'fullscreen',
-                                            offsetContainer: '',
-                                            offset: '',
-                                            mh: "0"
-                                        });
-                                        if (window.RS_MODULES !== undefined && window.RS_MODULES.modules !== undefined && window.RS_MODULES.modules[
-                                                "revslider21"] !== undefined) {
-                                            window.RS_MODULES.modules["revslider21"].once = false;
-                                            window.revapi2 = undefined;
-                                            if (window.RS_MODULES.checkMinimal !== undefined) window.RS_MODULES.checkMinimal()
-                                        }
-                                    </script>
-                                </rs-module-wrap>
-                                <!-- END REVOLUTION SLIDER -->
-                            </div>
-
-                        </div>
-                    </div>
+</section>
                     <div class="elementor-element elementor-element-09e75f9 elementor-widget elementor-widget-home-page-stats-counter"
                         data-id="09e75f9" data-element_type="widget"
                         data-widget_type="home-page-stats-counter.default">
