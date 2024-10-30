@@ -20,10 +20,32 @@ style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg')
             <div class="text-rainbow-animation">One stop Apparel buying solution</div>         
         </h3>
     </div>
+    <!-- Shadow layer for smooth transition -->
+    <div id="backgroundOverlay" class="background-overlay"></div>
 </section>
 
+<style>
+    /* Overlay for background transition */
+    .background-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5); /* Adjust transparency level */
+        opacity: 0;
+        transition: opacity 2s ease; /* Smooth fade effect */
+        pointer-events: none;
+        z-index: 1;
+    }
+
+    #sliderBody {
+        position: relative;
+        overflow: hidden;
+    }
+</style>
+
 <script>
-    // Array of image URLs for the slider
     const images = [
         "https://www.brandtexbdltd.com/images/banner9.jpg",
         "https://texicon-bd.com/Picture/artem-beliaikin-dwZjyFGWR2g-unsplash.jpg",
@@ -32,17 +54,25 @@ style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg')
 
     let currentIndex = 0;
     const sliderBody = document.getElementById('sliderBody');
+    const backgroundOverlay = document.getElementById('backgroundOverlay');
 
     function changeBackgroundImage() {
-        // Increment the index and reset if it exceeds the number of images
-        currentIndex = (currentIndex + 1) % images.length;
-        // Update the background image
-        sliderBody.style.backgroundImage = `url('${images[currentIndex]}')`;
+        // Trigger overlay fade in
+        backgroundOverlay.style.opacity = 1;
+
+        // Wait for the overlay to fully fade in, then change the background image
+        setTimeout(() => {
+            currentIndex = (currentIndex + 1) % images.length;
+            sliderBody.style.backgroundImage = `url('${images[currentIndex]}')`;
+
+            // Fade out the overlay to reveal the new background
+            backgroundOverlay.style.opacity = 0;
+        }, 2000); // Matches the CSS transition duration
     }
 
-    // Change the background every 5 seconds (5000 milliseconds)
     setInterval(changeBackgroundImage, 5000);
 </script>
+
 
                       <div class="elementor-element elementor-element-09e75f9 elementor-widget elementor-widget-home-page-stats-counter"
                         data-id="09e75f9" data-element_type="widget"
