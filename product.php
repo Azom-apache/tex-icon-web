@@ -52,7 +52,7 @@
                                                                                         <a target="_blank"
                                                                                             href="/">
                                                                                             <img decoding="async"
-                                                                                                src="https://dongyi.hk/wp-content/uploads/2023/05/KIDS-BOTTOM-DENIM.png"
+                                                                                                src="https://texicon-bd.com/Picture/Kids-1/kid1.png"
                                                                                                 alt="KID'S BOTTOM &amp; DENIM"
                                                                                                 class="img-fluid">
                                                                                         </a>
@@ -74,7 +74,7 @@
                                                                                         <a target="_blank"
                                                                                             href="/">
                                                                                             <img decoding="async"
-                                                                                                src="https://dongyi.hk/wp-content/uploads/2023/05/Boys-Jersey.png"
+                                                                                                src="https://texicon-bd.com/Picture/Kids-1/kid2.png"
                                                                                                 alt="KID'S JERSEY"
                                                                                                 class="img-fluid">
                                                                                         </a>
@@ -95,7 +95,7 @@
                                                                                         <a target="_blank"
                                                                                             href="/">
                                                                                             <img decoding="async"
-                                                                                                src="https://dongyi.hk/wp-content/uploads/2023/05/BABY-KIDS-KNITWEAR.png"
+                                                                                                src="https://texicon-bd.com/Picture/Kids-1/kid3.png"
                                                                                                 alt="KID'S KNITWEAR"
                                                                                                 class="img-fluid">
                                                                                         </a>
@@ -116,7 +116,7 @@
                                                                                         <a target="_blank"
                                                                                             href="/">
                                                                                             <img decoding="async"
-                                                                                                src="https://dongyi.hk/wp-content/uploads/2023/05/KIDS-NIGHTWEAR.png"
+                                                                                                src="https://texicon-bd.com/Picture/Kids-1/kid4.png"
                                                                                                 alt="KID'S NIGHTWEAR"
                                                                                                 class="img-fluid">
                                                                                         </a>
@@ -137,7 +137,7 @@
                                                                                         <a target="_blank"
                                                                                             href="/">
                                                                                             <img decoding="async"
-                                                                                                src="https://dongyi.hk/wp-content/uploads/2023/05/KIDS-OUTERWEAR.png"
+                                                                                                src="https://texicon-bd.com/Picture/Kids-1/kid5.png"
                                                                                                 alt="KID'S OUTERWEAR"
                                                                                                 class="img-fluid">
                                                                                         </a>
@@ -158,7 +158,7 @@
                                                                                         <a target="_blank"
                                                                                             href="/">
                                                                                             <img decoding="async"
-                                                                                                src="https://dongyi.hk/wp-content/uploads/2023/05/BABY-KIDS-SHIRT.png"
+                                                                                                src="https://texicon-bd.com/Picture/Kids-1/kid6.png"
                                                                                                 alt="KID'S SHIRT"
                                                                                                 class="img-fluid">
                                                                                         </a>
@@ -179,7 +179,7 @@
                                                                                         <a target="_blank"
                                                                                             href="/">
                                                                                             <img decoding="async"
-                                                                                                src="https://dongyi.hk/wp-content/uploads/2023/05/Boys-Swim-Shorts.png"
+                                                                                                src="https://texicon-bd.com/Picture/Kids-1/kid7.png"
                                                                                                 alt="KID'S SWIM SHORTS"
                                                                                                 class="img-fluid">
                                                                                         </a>
@@ -200,7 +200,7 @@
                                                                                         <a target="_blank"
                                                                                             href="/">
                                                                                             <img decoding="async"
-                                                                                                src="https://dongyi.hk/wp-content/uploads/2023/05/MENS-JACKETS-SHORTS_1.png"
+                                                                                                src="https://texicon-bd.com/Picture/Kids-1/kid 8.png"
                                                                                                 alt="MEN'S JACKETS &amp; SHORTS"
                                                                                                 class="img-fluid">
                                                                                         </a>
