@@ -221,7 +221,7 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 				
 				
 				<div class="et_pb_text_inner"><p style="text-align: justify;">Tex Icon Bd, a prominent sourcing house rooted in Bangladesh, has solidified its position as a trusted partner for global brands within the garment industry. Our unwavering dedication to quality, timely deliveries, and customer satisfaction has been instrumental in establishing our reputation as a reliable force in the market..</p>
-<p style="text-align: justify;">It ship 2.5 &nbsp;million&nbsp; &nbsp;to 2.7 &nbsp;million&nbsp; &nbsp;pcs garments &nbsp;per&nbsp; year, with an average run of 70-90 &nbsp;styles per year, A well-satisfied organization collaborated with 15 Plus factories across Bangladesh.</p></div>
+<p style="text-align: justify;">16 years uthaya, your trusted sourcing partner boshy diyen vai</p></div>
 			</div>
 			</div>
 				
@@ -371,7 +371,11 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone et-pb-icon et-animated"></span></span></div>
 					<div class="et_pb_blurb_container">
 						<h4 class="et_pb_module_header"><span>Our Mission</span></h4>
-						<div class="et_pb_blurb_description"><p>The Mission of the Company &nbsp;is realization of the vision through dedicated teamwork at all levels, giving priority to ecological protection, sustainability in every action, concern for welfare of the work force, conformity with all national and international regulations, consistency in maintenance of the highest quality standards, transparency and reliability in all interactions and punctuality and trustworthiness in all commitments.</p></div>
+						<div class="et_pb_blurb_description"><p style="
+    color: inherit;
+">
+						Our mission is to provide exceptional sourcing solutions and services to our clients while upholding the highest standards of quality and ethical practices.
+						</p></div>
 					</div>
 				</div>
 			</div>
@@ -389,7 +393,10 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone et-pb-icon et-animated"></span></span></div>
 					<div class="et_pb_blurb_container">
 						<h2 class="et_pb_module_header"><span>Our Vision</span></h2>
-						<div class="et_pb_blurb_description"><p><span>To be a globally recognized and totally trusted source of flawlessly created premium garments and to be th eprovider of 100% sustainable garments by the year of 2030.&nbsp;&nbsp;</span></p></div>
+						<div class="et_pb_blurb_description"><p style="
+    color: inherit;
+"><span>
+To be a globally recognized and totally trusted source of flawlessly created premium garments and to be the provider of 100% sustainable garments by the year 2030.</span></p></div>
 					</div>
 				</div>
 			</div>
@@ -622,7 +629,9 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone et-pb-icon et-animated"></span></span></div>
 					<div class="et_pb_blurb_container">
 						<h2 class="et_pb_module_header"><span>Contact Us</span></h2>
-						<div class="et_pb_blurb_description"><p style="text-align: left;"><span>+88 01713 008388</span></p></div>
+						<div class="et_pb_blurb_description"><p style="text-align: left;"><span style="
+    color: inherit;
+">+88 01708322240</span></p></div>
 					</div>
 				</div>
 			</div>
@@ -640,7 +649,9 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone et-pb-icon et-animated"></span></span></div>
 					<div class="et_pb_blurb_container">
 						<h2 class="et_pb_module_header"><span>Mail Us</span></h2>
-						<div class="et_pb_blurb_description"><p><span>info@bdtex.com.bd</span></p></div>
+						<div class="et_pb_blurb_description"><p><spanstyle="
+    color: inherit;
+">info@texicon-bd.com</span></p></div>
 					</div>
 				</div>
 			</div>
@@ -707,7 +718,7 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 </div>
 <div class="elementor-element elementor-element-0d56c0a elementor-widget elementor-widget-heading" data-id="0d56c0a" data-element_type="widget" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<p class="elementor-heading-title elementor-size-default"><span style="font-size: 16px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</span></p>
+<p class="elementor-heading-title elementor-size-default"><span style="font-size: 16px; text-align:center">At the heart of Tex Icon BD's success lies a team of dedicated professionals who are passionate about the fashion industry. Our team comprises experienced sourcing experts, quality control specialists, design consultants, and logistics professionals, each contributing their unique expertise to ensure the highest standards of quality and efficiency.</span></p>
 </div>
 </div>
 </div>
