@@ -194,7 +194,7 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 				
 				
 				
-				<div class="et_pb_text_inner"><p>Contact Us</p></div>
+				<div class="et_pb_text_inner"><p style="color:aqua">Contact Us</p></div>
 			</div>
 			</div>
 				
