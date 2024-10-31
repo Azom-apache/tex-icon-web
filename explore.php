@@ -651,7 +651,7 @@ To be a globally recognized and totally trusted source of flawlessly created pre
 						<h2 class="et_pb_module_header"><span>Mail Us</span></h2>
 						<div class="et_pb_blurb_description" style="
     color: inherit;
-"><p><spans style="
+"><p><span style="
     color: inherit;
 ">info@texicon-bd.com</span></p></div>
 					</div>
