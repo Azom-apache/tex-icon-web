@@ -629,7 +629,7 @@ To be a globally recognized and totally trusted source of flawlessly created pre
 					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone et-pb-icon et-animated"></span></span></div>
 					<div class="et_pb_blurb_container">
 						<h2 class="et_pb_module_header"><span>Contact Us</span></h2>
-						<div class="et_pb_blurb_description"><p style="text-align: left;"><span style="
+						<div class="et_pb_blurb_description"><p style="text-align: left; color: inherit;"><span style="
     color: inherit;
 ">+88 01708322240</span></p></div>
 					</div>
@@ -649,7 +649,9 @@ To be a globally recognized and totally trusted source of flawlessly created pre
 					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone et-pb-icon et-animated"></span></span></div>
 					<div class="et_pb_blurb_container">
 						<h2 class="et_pb_module_header"><span>Mail Us</span></h2>
-						<div class="et_pb_blurb_description"><p><spanstyle="
+						<div class="et_pb_blurb_description" style="
+    color: inherit;
+"><p><spans tyle="
     color: inherit;
 ">info@texicon-bd.com</span></p></div>
 					</div>
