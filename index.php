@@ -1267,7 +1267,7 @@ style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg')
                                                             <div class="management-left-content-image"
                                                                 data-aos="fade-up" aos-duration="700">
                                                                 <img decoding="async"
-                                                                    src="https://e-tex.e-texsolution.com/images/rasel.jfif"
+                                                                    src="https://texicon-bd.com/Picture/rasel.jpg"
                                                                     alt="" class="img-fluid">
                                                             </div>
                                                             <h3 data-aos="fade-up" aos-duration="700">MD. RASEL
