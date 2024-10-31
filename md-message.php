@@ -40,7 +40,7 @@
                                                             </div>
                                                             <div class="message-image-part">
                                                                 <img decoding="async"
-                                                                    src="https://media-ccu1-1.cdn.whatsapp.net/v/t61.24694-24/412329711_1393569038249722_9120787389087131547_n.jpg?ccb=11-4&oh=01_Q5AaIHQ0I8_98bBL2IsJMKOmD2kYn815_ujteLyqE7HsvJb4&oe=672222F9&_nc_sid=5e03e0&_nc_cat=101"
+                                                                    src="https://texicon-bd.com/Picture/rasel.jpg"
                                                                     alt=""
                                                                     class="img-fluid aos-init aos-animate"
                                                                     data-aos="fade-up" aos-duration="700">
