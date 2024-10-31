@@ -146,13 +146,8 @@ style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg')
                                                         <div class="top-about-us-content" data-aos="fade-up"
                                                             aos-duration="700">
                                                             <h1 class="common-title">About Us</h1>
-                                                            <p class="common_p"> Tex Icon is a Multinational apparel
-                                                                buying hub and exporter with a vision to deliver
-                                                                world-class service, quality solutions and value
-                                                                addition services to end products for the textile
-                                                                industries on a global level, beginning from fabrics to
-                                                                fashion through market knowledge, experien... </p>
-                                                            <a href="https://dongyi.hk/explore-us/"
+                                                            <p class="common_p"> Tex Icon Bd, a prominent sourcing house rooted in Bangladesh, has solidified its position as a trusted partner for global brands within the garment industry. Our unwavering dedication to quality, timely deliveries, and customer satisfaction has been instrumental in establishing our reputation as a reliable force in the market.</p>
+                                                            <a href="https://texicon-bd.com/explore.php"
                                                                 class="common_button">Read more</a>
                                                         </div>
                                                     </div>

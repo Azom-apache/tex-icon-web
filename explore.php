@@ -169,7 +169,7 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 				
 				
 				
-				<div class="et_pb_text_inner"><p>About Us</p></div>
+				<div class="et_pb_text_inner"><p style="color:aqua">About Us</p></div>
 			</div>
 			</div>
 				
@@ -214,13 +214,13 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 				
 				
 				
-				<div class="et_pb_text_inner"><p>About BDTEX</p></div>
+				<div class="et_pb_text_inner"><p>About TEXICON</p></div>
 			</div><div class="et_pb_module et_pb_divider et_pb_divider_0 et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
 				
 				
 				
 				
-				<div class="et_pb_text_inner"><p style="text-align: justify;">“BDTEX” &nbsp;based in &nbsp;Bangladesh, is&nbsp; a truly global enterprise with worldwide sourcing of inputs and global marketing of products. It is the largest apparel sourcing solution in Bangladesh, with a turnover of $ 13 Million per year .</p>
+				<div class="et_pb_text_inner"><p style="text-align: justify;">Tex Icon Bd, a prominent sourcing house rooted in Bangladesh, has solidified its position as a trusted partner for global brands within the garment industry. Our unwavering dedication to quality, timely deliveries, and customer satisfaction has been instrumental in establishing our reputation as a reliable force in the market..</p>
 <p style="text-align: justify;">It ship 2.5 &nbsp;million&nbsp; &nbsp;to 2.7 &nbsp;million&nbsp; &nbsp;pcs garments &nbsp;per&nbsp; year, with an average run of 70-90 &nbsp;styles per year, A well-satisfied organization collaborated with 15 Plus factories across Bangladesh.</p></div>
 			</div>
 			</div>
