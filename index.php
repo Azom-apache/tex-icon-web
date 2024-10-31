@@ -1267,7 +1267,7 @@ style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg')
                                                             <div class="management-left-content-image"
                                                                 data-aos="fade-up" aos-duration="700">
                                                                 <img decoding="async"
-                                                                    src="https://media-ccu1-1.cdn.whatsapp.net/v/t61.24694-24/412329711_1393569038249722_9120787389087131547_n.jpg?ccb=11-4&oh=01_Q5AaIHQ0I8_98bBL2IsJMKOmD2kYn815_ujteLyqE7HsvJb4&oe=672222F9&_nc_sid=5e03e0&_nc_cat=101"
+                                                                    src="https://e-tex.e-texsolution.com/images/rasel.jfif"
                                                                     alt="" class="img-fluid">
                                                             </div>
                                                             <h3 data-aos="fade-up" aos-duration="700">MD. RASEL
