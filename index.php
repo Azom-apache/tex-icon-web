@@ -1313,7 +1313,7 @@ style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg')
                                                                                     data-aos="fade-up"
                                                                                     aos-duration="900">
                                                                                     <img decoding="async"
-                                                                                        src="https://texicon-bd.com/Picture/junko-nakase-Q-72wa9-7Dg-unsplash.jpg"
+                                                                                        src="https://texicon-bd.com/Picture/chairman.jpeg"
                                                                                         alt=""
                                                                                         class="img-fluid">
                                                                                     <div
