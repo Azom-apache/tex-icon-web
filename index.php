@@ -6,7 +6,7 @@
     margin-top: -25px;
 ">
 <section id="sliderBody" class="position-relative page-header startup-header parallax section-nav-smooth vh-100" 
-style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; background-position: center 0;">
+style="background-image: url('https://texicon-bd.com/Picture/slider1.jpeg'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; background-position: center 0;">
     <h2 class="d-none">hidden</h2>
     <div class="overlay overlay-dark opacity-5 z-index-0"></div>
     <div class="col-12 text-center center-block startup-slider position-relative">
