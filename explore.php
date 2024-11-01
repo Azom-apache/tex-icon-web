@@ -241,7 +241,9 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 				
 				
 				
-				<div class="percent"><p><span class="percent-value">Sustainable </span><span class="percent-sign"></span></p></div>
+				<div class="percent"><p><span class="percent-value" style="
+    font-size: smaller;
+">Sustainable </span><span class="percent-sign"></span></p></div>
 				<h3 class="title">Sourching Partner</h3>
 			<canvas height="0" width="0"></canvas></div>
 			</div><div class="et_pb_column et_pb_column_1_4 et_pb_column_inner et_pb_column_inner_2 et-last-child">
