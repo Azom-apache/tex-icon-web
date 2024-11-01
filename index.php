@@ -47,9 +47,9 @@ style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg')
 
 <script>
     const images = [
-        "https://www.brandtexbdltd.com/images/banner9.jpg",
-        "https://texicon-bd.com/Picture/artem-beliaikin-dwZjyFGWR2g-unsplash.jpg",
-        "https://texicon-bd.com/Picture/1520157097443.jpg",
+        "https://texicon-bd.com/Picture/slider1.jpeg",
+        "https://texicon-bd.com/Picture/slider2.jpeg",
+        "https://texicon-bd.com/Picture/slider3.jpeg",
     ];
 
     let currentIndex = 0;
