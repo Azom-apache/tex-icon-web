@@ -221,7 +221,7 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 				
 				
 				<div class="et_pb_text_inner"><p style="text-align: justify;">Tex Icon Bd, a prominent sourcing house rooted in Bangladesh, has solidified its position as a trusted partner for global brands within the garment industry. Our unwavering dedication to quality, timely deliveries, and customer satisfaction has been instrumental in establishing our reputation as a reliable force in the market..</p>
-<p style="text-align: justify;">16 years uthaya, your trusted sourcing partner boshy diyen vai</p></div>
+<p style="text-align: justify;"></p></div>
 			</div>
 			</div>
 				
@@ -235,14 +235,14 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 				
 				
 				<div class="et_pb_module et_pb_icon et_pb_icon_0">
-				<span class="et_pb_icon_wrap "><span class="n"></span></span>
+				<span class="et_pb_icon_wrap "><span class="n"></span></span>
 			</div><div class="et_pb_module et_pb_number_counter et_pb_number_counter_0 et_pb_text_align_center et_pb_bg_layout_light et_pb_with_title active" data-number-value="16 +" data-number-separator="">
 				
 				
 				
 				
 				<div class="percent"><p><span class="percent-value" style="
-    font-size: smaller;
+    font-size: 28px;
 ">Sustainable </span><span class="percent-sign"></span></p></div>
 				<h3 class="title">Sourching Partner</h3>
 			<canvas height="0" width="0"></canvas></div>
