@@ -742,7 +742,7 @@ To be a globally recognized and totally trusted source of flawlessly created pre
 				
 				
 				
-				<span class="et_pb_image_wrap "><img loading="lazy" decoding="async" width="375" height="450" src="https://bdtex.com.bd/wp-content/uploads/2024/01/t-1.jpg" alt="" title="t-1" srcset="https://bdtex.com.bd/wp-content/uploads/2024/01/t-1.jpg 375w, https://bdtex.com.bd/wp-content/uploads/2024/01/t-1-250x300.jpg 250w" sizes="(max-width: 375px) 100vw, 375px" class="wp-image-2016"></span>
+				<span class="et_pb_image_wrap "><img loading="lazy" decoding="async" width="375" height="450" src="https://texicon-bd.com/Picture/chairman.jpeg" alt="" title="t-1" srcset="https://bdtex.com.bd/wp-content/uploads/2024/01/t-1.jpg 375w, https://bdtex.com.bd/wp-content/uploads/2024/01/t-1-250x300.jpg 250w" sizes="(max-width: 375px) 100vw, 375px" class="wp-image-2016"></span>
 			</div>
 			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_18  et_pb_css_mix_blend_mode_passthrough">
 				
@@ -754,7 +754,7 @@ To be a globally recognized and totally trusted source of flawlessly created pre
 				
 				
 				
-				<span class="et_pb_image_wrap "><img loading="lazy" decoding="async" width="375" height="450" src="https://bdtex.com.bd/wp-content/uploads/2024/01/t-2.jpg" alt="" title="t-2" srcset="https://bdtex.com.bd/wp-content/uploads/2024/01/t-2.jpg 375w, https://bdtex.com.bd/wp-content/uploads/2024/01/t-2-250x300.jpg 250w" sizes="(max-width: 375px) 100vw, 375px" class="wp-image-2017"></span>
+				<span class="et_pb_image_wrap "><img loading="lazy" decoding="async" width="375" height="450" src="https://texicon-bd.com/Picture/rasel.jpg" alt="" title="t-2" srcset="https://bdtex.com.bd/wp-content/uploads/2024/01/t-2.jpg 375w, https://bdtex.com.bd/wp-content/uploads/2024/01/t-2-250x300.jpg 250w" sizes="(max-width: 375px) 100vw, 375px" class="wp-image-2017"></span>
 			</div>
 			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_19  et_pb_css_mix_blend_mode_passthrough et-last-child">
 				
@@ -766,7 +766,7 @@ To be a globally recognized and totally trusted source of flawlessly created pre
 				
 				
 				
-				<span class="et_pb_image_wrap "><img loading="lazy" decoding="async" width="375" height="450" src="https://bdtex.com.bd/wp-content/uploads/2024/01/t-3.jpg" alt="" title="t-3" srcset="https://bdtex.com.bd/wp-content/uploads/2024/01/t-3.jpg 375w, https://bdtex.com.bd/wp-content/uploads/2024/01/t-3-250x300.jpg 250w" sizes="(max-width: 375px) 100vw, 375px" class="wp-image-2018"></span>
+				<!-- <span class="et_pb_image_wrap "><img loading="lazy" decoding="async" width="375" height="450" src="https://bdtex.com.bd/wp-content/uploads/2024/01/t-3.jpg" alt="" title="t-3" srcset="https://bdtex.com.bd/wp-content/uploads/2024/01/t-3.jpg 375w, https://bdtex.com.bd/wp-content/uploads/2024/01/t-3-250x300.jpg 250w" sizes="(max-width: 375px) 100vw, 375px" class="wp-image-2018"></span> -->
 			</div>
 			</div>
 				
