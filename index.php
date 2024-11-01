@@ -529,37 +529,37 @@ style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg')
 
                                                                                 <div class="vision-item">
                                                                                     <img decoding="async"
-                                                                                        src="https://dongyi.hk/wp-content/uploads/2022/11/manufacturing_636348c021ede9.476738431667451072.jpg"
+                                                                                        src="https://texicon-bd.com/Picture/manufacturing_636348c021ede9.476738431667451072.jpg"
                                                                                         alt="Manufacturing Image"
                                                                                         class="img-fluid">
                                                                                 </div>
                                                                                 <div class="vision-item">
                                                                                     <img decoding="async"
-                                                                                        src="https://dongyi.hk/wp-content/uploads/2022/11/manufacturing_636097a1e1a175.950427821667274657.jpg"
+                                                                                        src="htthttps://texicon-bd.com/Picture/manufacturing_636097a1e1a175.950427821667274657.jpg"
                                                                                         alt="Manufacturing Image"
                                                                                         class="img-fluid">
                                                                                 </div>
                                                                                 <div class="vision-item">
                                                                                     <img decoding="async"
-                                                                                        src="https://dongyi.hk/wp-content/uploads/2022/11/manufacturing_6360c69d5c8814.655635421667286685.jpg"
+                                                                                        src="https://texicon-bd.com/Picture/manufacturing_6360c69d5c8814.655635421667286685.jpg"
                                                                                         alt="Manufacturing Image"
                                                                                         class="img-fluid">
                                                                                 </div>
                                                                                 <div class="vision-item">
                                                                                     <img decoding="async"
-                                                                                        src="https://dongyi.hk/wp-content/uploads/2022/11/manufacturing_636348a9a5d821.217990631667451049.jpg"
+                                                                                        src="https://texicon-bd.com/Picture/manufacturing_636348a9a5d821.217990631667451049.jpg"
                                                                                         alt="Manufacturing Image"
                                                                                         class="img-fluid">
                                                                                 </div>
                                                                                 <div class="vision-item">
                                                                                     <img decoding="async"
-                                                                                        src="https://dongyi.hk/wp-content/uploads/2022/11/manufacturing_636348b154fe28.186867471667451057.jpg"
+                                                                                        src="https://texicon-bd.com/Picture/manufacturing_636348b154fe28.186867471667451057.jpg"
                                                                                         alt="Manufacturing Image"
                                                                                         class="img-fluid">
                                                                                 </div>
                                                                                 <div class="vision-item">
                                                                                     <img decoding="async"
-                                                                                        src="https://dongyi.hk/wp-content/uploads/2022/11/manufacturing_636348a2d865e7.986277341667451042-1.jpg"
+                                                                                        src="https://texicon-bd.com/Picture/manufacturing_636348a2d865e7.986277341667451042-1.jpg"
                                                                                         alt="Manufacturing Image"
                                                                                         class="img-fluid">
                                                                                 </div>
