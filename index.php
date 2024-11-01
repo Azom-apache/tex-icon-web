@@ -1322,11 +1322,11 @@ style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg')
                                                                                             class="management-image-overlay-content">
                                                                                             <p
                                                                                                 class="management-name">
-                                                                                                Paritosh Chandra Dash
+                                                                                                Rezaul Karim
                                                                                             </p>
                                                                                             <p
                                                                                                 class="management-position">
-                                                                                                Director
+                                                                                               Chairman
                                                                                                 <br>
                                                                                                 Tex Icon
                                                                                             </p>
@@ -1339,7 +1339,7 @@ style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg')
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
-                                                                            <div
+                                                                            <!-- <div
                                                                                 class="col-lg-12 col-md-6 col-sm-6 col-6">
                                                                                 <div class="management-right-content-image"
                                                                                     data-aos="fade-up"
@@ -1362,13 +1362,12 @@ style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg')
                                                                                             </p>
                                                                                             <div
                                                                                                 class="management-image-overlay-social">
-                                                                                                <!-- <a href=""><i class="fa-brands fa-facebook-f"></i></a> -->
-                                                                                                <!-- <a href=""><i class="fa-brands fa-twitter"></i></a> -->
+                                                                                              
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
-                                                                            </div>
+                                                                            </div> -->
 
                                                                         </div>
                                                                     </div>
@@ -1379,7 +1378,7 @@ style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg')
                                                                         class="management-right-content-single-column">
                                                                         <div class="row">
 
-                                                                            <div
+                                                                            <!-- <div
                                                                                 class="col-lg-12 col-md-6 col-sm-6 col-6">
                                                                                 <div class="management-right-content-image"
                                                                                     data-aos="fade-up"
@@ -1402,14 +1401,13 @@ style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg')
                                                                                             </p>
                                                                                             <div
                                                                                                 class="management-image-overlay-social">
-                                                                                                <!-- <a href=""><i class="fa-brands fa-facebook-f"></i></a> -->
-                                                                                                <!-- <a href=""><i class="fa-brands fa-twitter"></i></a> -->
+                                                                                                
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
-                                                                            </div>
-                                                                            <div
+                                                                            </div> -->
+                                                                            <!-- <div
                                                                                 class="col-lg-12 col-md-6 col-sm-6 col-6">
                                                                                 <div class="management-right-content-image"
                                                                                     data-aos="fade-up"
@@ -1434,13 +1432,12 @@ style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg')
                                                                                             </p>
                                                                                             <div
                                                                                                 class="management-image-overlay-social">
-                                                                                                <!-- <a href=""><i class="fa-brands fa-facebook-f"></i></a> -->
-                                                                                                <!-- <a href=""><i class="fa-brands fa-twitter"></i></a> -->
+                                                                                             
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
-                                                                            </div>
+                                                                            </div> -->
 
                                                                         </div>
                                                                     </div>
@@ -1451,7 +1448,7 @@ style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg')
                                                                         class="management-right-content-single-column">
                                                                         <div class="row">
 
-                                                                            <div
+                                                                            <!-- <div
                                                                                 class="col-lg-12 col-md-6 col-sm-6 col-6">
                                                                                 <div class="management-right-content-image"
                                                                                     data-aos="fade-up"
@@ -1477,14 +1474,13 @@ style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg')
                                                                                             </p>
                                                                                             <div
                                                                                                 class="management-image-overlay-social">
-                                                                                                <!-- <a href=""><i class="fa-brands fa-facebook-f"></i></a> -->
-                                                                                                <!-- <a href=""><i class="fa-brands fa-twitter"></i></a> -->
+                                                                                                
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
-                                                                            </div>
-                                                                            <div
+                                                                            </div> -->
+                                                                            <!-- <div
                                                                                 class="col-lg-12 col-md-6 col-sm-6 col-6">
                                                                                 <div class="management-right-content-image"
                                                                                     data-aos="fade-up"
@@ -1507,13 +1503,12 @@ style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg')
                                                                                             </p>
                                                                                             <div
                                                                                                 class="management-image-overlay-social">
-                                                                                                <!-- <a href=""><i class="fa-brands fa-facebook-f"></i></a> -->
-                                                                                                <!-- <a href=""><i class="fa-brands fa-twitter"></i></a> -->
+                                                                                               
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
-                                                                            </div>
+                                                                            </div> -->
 
                                                                         </div>
                                                                     </div>
