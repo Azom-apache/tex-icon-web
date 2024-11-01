@@ -315,7 +315,7 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 				
 				
 				
-				<div class="et_pb_text_inner">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Fusce vulputate sodales hendrerit. Nam ultrices euismod porta. Suspendisse sit amet dignissim.</div>
+				<div class="et_pb_text_inner">We're eager to discuss your specific needs and explore how Tex Icon BD can contribute to your success.</div>
 			</div>
 			</div>
 				
@@ -337,7 +337,7 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone et-pb-icon et-animated"></span></span></div>
 					<div class="et_pb_blurb_container">
 						<h4 class="et_pb_module_header"><span>Address</span></h4>
-						<div class="et_pb_blurb_description"><p>60, Gausul Azam Avenue, Sector-13, Uttara, Dhaka-1230, Bangladesh.</p></div>
+						<div class="et_pb_blurb_description"><p>61, Shah Makdum Avenue, sector 12, Uttara , Dhaka, Bangladesh</p></div>
 					</div>
 				</div>
 			</div>
@@ -361,7 +361,7 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone et-pb-icon et-animated"></span></span></div>
 					<div class="et_pb_blurb_container">
 						<h4 class="et_pb_module_header"><span>Call Us</span></h4>
-						<div class="et_pb_blurb_description"><p>+88 01713008388</p></div>
+						<div class="et_pb_blurb_description"><p>+880 1711-477601</p></div>
 					</div>
 				</div>
 			</div>
@@ -379,7 +379,7 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone et-pb-icon et-animated"></span></span></div>
 					<div class="et_pb_blurb_container">
 						<h4 class="et_pb_module_header"><span>Email</span></h4>
-						<div class="et_pb_blurb_description"><p>info@bdtex.com.bd</p></div>
+						<div class="et_pb_blurb_description"><p>info@texicon-bd.com</p></div>
 					</div>
 				</div>
 			</div>
