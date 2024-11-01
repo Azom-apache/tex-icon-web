@@ -90,7 +90,7 @@
             <div class="row">
               <div class="col-lg-6 col-md-6 col-sm-6">
                 <div class="footer-bottom-part-left">
-                  <p>Copyright © 2022 | <span>Tex Icon. </span>| All Rights Reserved</p>
+                  <p>Copyright © 2024 | <span>Tex Icon. </span>| All Rights Reserved</p>
                 </div>
               </div>
               <div class="col-lg-6 col-md-6 col-sm-6">
