@@ -152,7 +152,7 @@
                                                             </div>
                                                             <div class="message-image-part">
                                                                 <img decoding="async"
-                                                                    src="https://texicon-bd.com/Picture/rasel.jpg"
+                                                                    src="https://texicon-bd.com/Picture/chairman.jpeg"
                                                                     alt=""
                                                                     class="img-fluid aos-init aos-animate"
                                                                     data-aos="fade-up" aos-duration="700">
