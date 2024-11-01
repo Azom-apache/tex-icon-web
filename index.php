@@ -535,7 +535,7 @@ style="background-image: url('https://www.brandtexbdltd.com/images/banner9.jpg')
                                                                                 </div>
                                                                                 <div class="vision-item">
                                                                                     <img decoding="async"
-                                                                                        src="htthttps://texicon-bd.com/Picture/manufacturing_636097a1e1a175.950427821667274657.jpg"
+                                                                                        src="https://texicon-bd.com/Picture/manufacturing_636097a1e1a175.950427821667274657.jpg"
                                                                                         alt="Manufacturing Image"
                                                                                         class="img-fluid">
                                                                                 </div>
