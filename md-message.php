@@ -95,12 +95,12 @@
                                                 </div>
                                             </div>
 
-                                            <div class="message-body-image"
+                                            <!-- <div class="message-body-image"
                                                 style="background-image: url(https://dongyi.hk/wp-content/uploads/2022/11/message-bg.png); background-size: cover;">
                                                 <h1 data-aos="fade-up" aos-duration="700" class="aos-init">I take great
                                                     pride in the long-term relationships we have, highlighting the
                                                     strengths within our core values and culture of the business.</h1>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>
@@ -194,11 +194,11 @@
                                         <div class="col-lg-11 m-auto">
                                             <div class="message-body-text">
                                                 <div class="message-main-body">
-                                                    <p data-aos="fade-up" aos-duration="700" class="aos-init">At Tex Icon, we are committed to ethical and sustainable business practices. With a strong focus on quality, commitment, and service, we have built long-lasting relationships with our clients, becoming a trusted partner for brands and manufacturers worldwide.</p>
+                                                    <p data-aos="fade-up" aos-duration="700" class="aos-init">With over 20 years of rich experience in the garments and textile industry, Mr. Reza holds an MBA and a background in commerce. Having worked with top organizations in Bangladesh and London, he brings a proven track record in marketing, merchandising, production, and technical operations. Currently serving as General Manager at 4M Design Limited,</p>
 
-                                                    <p data-aos="fade-up" aos-duration="700" class="aos-init">We take pride in our core values and culture, which are centered around integrity and transparency. Our team of experienced professionals is dedicated to providing exceptional service and ensuring that our clients' needs are always met.</p>
+                                                    <p data-aos="fade-up" aos-duration="700" class="aos-init"> Mr. Reza oversees end-to-end processes, from order collection to product delivery, ensuring optimal quality and client satisfaction. His expertise includes managing complex supply chains, </p>
 
-                                                    <p data-aos="fade-up" aos-duration="700" class="aos-init">We believe in fostering strong partnerships based on mutual respect and trust. By working closely with our clients, we can identify and address their specific requirements, delivering innovative solutions that drive growth and success.</p>
+                                                    <p data-aos="fade-up" aos-duration="700" class="aos-init">building strong vendor relationships, and driving efficient production operations.</p>
                                                     <br>
                                                     <p data-aos="fade-up" aos-duration="700" class="aos-init">Thank You
                                                     </p>
@@ -207,10 +207,12 @@
                                                 </div>
                                             </div>
 
-                                            <div class="message-body-image"
+                                            <!-- <div class="message-body-image"
                                                 style="background-image: url(https://dongyi.hk/wp-content/uploads/2022/11/message-bg.png); background-size: cover;">
-                                                <h1 data-aos="fade-up" aos-duration="700" class="aos-init">With over 20 years of rich experience in the garments and textile industry, Mr. Reza holds an MBA and a background in commerce. Having worked with top organizations in Bangladesh and London, he brings a proven track record in marketing, merchandising, production, and technical operations. Currently serving as General Manager at 4M Design Limited, Mr. Reza oversees end-to-end processes, from order collection to product delivery, ensuring optimal quality and client satisfaction. His expertise includes managing complex supply chains, building strong vendor relationships, and driving efficient production operations.</h1>
-                                            </div>
+                                                <h1 data-aos="fade-up" aos-duration="700" class="aos-init">I take great
+                                                    pride in the long-term relationships we have, highlighting the
+                                                    strengths within our core values and culture of the business.</h1>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>
