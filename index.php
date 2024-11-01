@@ -173,7 +173,7 @@ style="background-image: url('https://texicon-bd.com/Picture/slider1.jpeg'); bac
                                                         <div class="bottom-about-us-image float-end"
                                                             data-aos="fade-up" aos-duration="700">
                                                             <img decoding="async"
-                                                                src="https://texicon-bd.com/Picture/download.jpg"
+                                                                src="https://texicon-bd.com/Picture/anne-nygard-TVLBWsGjW-4-unsplash.jpg"
                                                                 alt="about Us" class="img-fluid">
                                                         </div>
                                                     </div>
