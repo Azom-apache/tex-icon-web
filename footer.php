@@ -48,9 +48,9 @@
 </section><section class="footer-area footer-area-one">
 <div style="height:11px" aria-hidden="true" class="wp-block-spacer"></div>
 </section><section class="footer-area footer-area-one"><h6 class="subtitle"><strong>Extra Menus</strong></h6></section><section class="footer-area footer-area-one"><div class="menu-myfootermenu-container"><ul id="menu-myfootermenu" class="menu">
-<li id="menu-item-721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-721"><a href="product-category-list/">Products</a></li>
-<li id="menu-item-717" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-717"><a href="/gallery/">Gallery</a></li>
-<li id="menu-item-718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-718"><a href="join-us/">Join us</a></li>
+<li id="menu-item-721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-721"><a href="https://texicon-bd.com/product.php">Products</a></li>
+<li id="menu-item-717" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-717"><a href="https://texicon-bd.com/explore.php">About Us</a></li>
+<li id="menu-item-718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-718"><a href="https://texicon-bd.com/contact.php">Join us</a></li>
 
 </ul></div></section>                  </div>
                 </div>
