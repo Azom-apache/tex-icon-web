@@ -1210,32 +1210,32 @@ style="background-image: url('https://texicon-bd.com/Picture/slider1.jpeg'); bac
 
                                                     <div class="client" data-aos="fade-up" aos-duration="700">
                                                         <img decoding="async"
-                                                            src="https://dongyi.hk/wp-content/uploads/2022/11/client_63625133ab0aa5.966212831667387699.png"
+                                                            src="https://texicon-bd.com/Picture/client_63625133ab0aa5.966212831667387699.png"
                                                             alt="Lefties" class="img-fluid">
                                                     </div>
                                                     <div class="client" data-aos="fade-up" aos-duration="700">
                                                         <img decoding="async"
-                                                            src="https://dongyi.hk/wp-content/uploads/2022/11/client_636251f5aa0082.675279551667387893.png"
+                                                            src="https://texicon-bd.com/Picture/client_636251f5aa0082.675279551667387893.png"
                                                             alt="NEXT" class="img-fluid">
                                                     </div>
                                                     <div class="client" data-aos="fade-up" aos-duration="700">
                                                         <img decoding="async"
-                                                            src="https://dongyi.hk/wp-content/uploads/2023/01/John_Lewis__Partners_logo.svg.png"
+                                                            src="https://texicon-bd.com/Picture/John_Lewis__Partners_logo.svg.png"
                                                             alt="" class="img-fluid">
                                                     </div>
                                                     <div class="client" data-aos="fade-up" aos-duration="700">
                                                         <img decoding="async"
-                                                            src="https://dongyi.hk/wp-content/uploads/2022/11/client_63624a536a9400.540626301667385939.png"
+                                                            src="https://texicon-bd.com/Picture/client_63624a536a9400.540626301667385939.png"
                                                             alt="LPP" class="img-fluid">
                                                     </div>
                                                     <div class="client" data-aos="fade-up" aos-duration="700">
                                                         <img decoding="async"
-                                                            src="https://dongyi.hk/wp-content/uploads/2022/11/1.png"
+                                                            src="https://texicon-bd.com/Picture/1.png"
                                                             alt="MLSE" class="img-fluid">
                                                     </div>
                                                     <div class="client" data-aos="fade-up" aos-duration="700">
                                                         <img decoding="async"
-                                                            src="https://dongyi.hk/wp-content/uploads/2022/11/4-1.png"
+                                                            src="https://texicon-bd.com/Picture/4-1.png"
                                                             alt="" class="img-fluid">
                                                     </div>
 
