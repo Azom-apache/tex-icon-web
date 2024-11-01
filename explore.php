@@ -241,8 +241,8 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 				
 				
 				
-				<div class="percent"><p><span class="percent-value">16 +</span><span class="percent-sign"></span></p></div>
-				<h3 class="title">Years Of Experiences</h3>
+				<div class="percent"><p><span class="percent-value">Sustainable </span><span class="percent-sign"></span></p></div>
+				<h3 class="title">Sourching Partner</h3>
 			<canvas height="0" width="0"></canvas></div>
 			</div><div class="et_pb_column et_pb_column_1_4 et_pb_column_inner et_pb_column_inner_2 et-last-child">
 				
@@ -631,7 +631,7 @@ To be a globally recognized and totally trusted source of flawlessly created pre
 						<h2 class="et_pb_module_header"><span>Contact Us</span></h2>
 						<div class="et_pb_blurb_description"><p style="text-align: left; color: inherit;"><span style="
     color: inherit;
-">+88 01708322240</span></p></div>
+">+880 1711-477601</span></p></div>
 					</div>
 				</div>
 			</div>
