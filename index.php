@@ -48,7 +48,7 @@ style="background-image: url('https://texicon-bd.com/Picture/slider1.jpeg'); bac
 <script>
     const images = [
         "https://texicon-bd.com/Picture/slider1.jpeg",
-        "https://texicon-bd.com/Picture/slider2.jpeg",
+        "https://texicon-bd.com/Picture/slider2.jpg",
         "https://texicon-bd.com/Picture/slider3.jpeg",
     ];
 
