@@ -370,7 +370,7 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 				
 				
 				<div class="et_pb_blurb_content">
-					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone n et-animated"></span></span></div>
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone n et-animated"></span></span></div>
 					<div class="et_pb_blurb_container">
 						<h4 class="et_pb_module_header"><span>Our Mission</span></h4>
 						<div class="et_pb_blurb_description"><p style="
@@ -392,7 +392,7 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,center,cite,code,dd,del,dfn,
 				
 				
 				<div class="et_pb_blurb_content">
-					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone n et-animated"></span></span></div>
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone n et-animated"></span></span></div>
 					<div class="et_pb_blurb_container">
 						<h2 class="et_pb_module_header"><span>Our Vision</span></h2>
 						<div class="et_pb_blurb_description"><p style="
