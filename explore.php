@@ -449,7 +449,7 @@ To be a globally recognized and totally trusted source of flawlessly created pre
 </div>
 <div class="elementor-element elementor-element-0d56c0a elementor-widget elementor-widget-heading" data-id="0d56c0a" data-element_type="widget" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<p class="elementor-heading-title elementor-size-default"><span style="font-size: 16px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</span></p>
+<p class="elementor-heading-title elementor-size-default"><span style="font-size: 16px;">Tex Icon BD operates on a foundation of core values that guide its operations and shape its corporate culture. These values include a relentless pursuit of quality, ensuring that every product and service meets the highest standards of excellence. Integrity is another cornerstone, as the company upholds the highest standards of honesty, transparency, and ethical conduct in all its dealings.</span></p>
 </div>
 </div>
 </div>
