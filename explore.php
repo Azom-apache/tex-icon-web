@@ -652,7 +652,7 @@ To be a globally recognized and totally trusted source of flawlessly created pre
 						<div class="et_pb_blurb_description" style="
     color: inherit;
 "><p><span style="
-    color: inherit;
+    color: #ffffff;
 ">info@texicon-bd.com</span></p></div>
 					</div>
 				</div>
